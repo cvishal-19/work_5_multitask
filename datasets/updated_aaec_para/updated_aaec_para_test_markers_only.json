@@ -1,0 +1,5658 @@
+[
+    {
+        "start": 156,
+        "end": 177,
+        "followed_by": "Claim",
+        "length": 22,
+        "span": "While some might think",
+        "id": "essay004_0"
+    },
+    {
+        "start": 241,
+        "end": 260,
+        "followed_by": "MajorClaim",
+        "length": 20,
+        "span": "I would contend that",
+        "id": "essay004_0"
+    },
+    {
+        "start": 0,
+        "end": 37,
+        "followed_by": "Premise",
+        "length": 38,
+        "span": "Firstly, it is an undeniable fact that",
+        "id": "essay004_1"
+    },
+    {
+        "start": 548,
+        "end": 573,
+        "followed_by": "Claim",
+        "length": 26,
+        "span": "Therefore this proves that",
+        "id": "essay004_1"
+    },
+    {
+        "start": 0,
+        "end": 39,
+        "followed_by": "Premise",
+        "length": 40,
+        "span": "Secondly, there are clear evidences that",
+        "id": "essay004_2"
+    },
+    {
+        "start": 382,
+        "end": 396,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "For this reason",
+        "id": "essay004_2"
+    },
+    {
+        "start": 519,
+        "end": 543,
+        "followed_by": "Claim",
+        "length": 25,
+        "span": "Thus, it is apparent that",
+        "id": "essay004_2"
+    },
+    {
+        "start": 0,
+        "end": 35,
+        "followed_by": "MajorClaim",
+        "length": 36,
+        "span": "To conclude, I strongly believe that",
+        "id": "essay004_3"
+    },
+    {
+        "start": 271,
+        "end": 283,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay005_0"
+    },
+    {
+        "start": 0,
+        "end": 4,
+        "followed_by": "Claim",
+        "length": 5,
+        "span": "First",
+        "id": "essay005_1"
+    },
+    {
+        "start": 0,
+        "end": 5,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "Second",
+        "id": "essay005_2"
+    },
+    {
+        "start": 223,
+        "end": 224,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "ut",
+        "id": "essay005_2"
+    },
+    {
+        "start": 313,
+        "end": 320,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay005_2"
+    },
+    {
+        "start": 0,
+        "end": 3,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Also",
+        "id": "essay005_3"
+    },
+    {
+        "start": 169,
+        "end": 177,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay005_3"
+    },
+    {
+        "start": 0,
+        "end": 12,
+        "followed_by": "Claim",
+        "length": 13,
+        "span": "In conclusion",
+        "id": "essay005_4"
+    },
+    {
+        "start": 99,
+        "end": 105,
+        "followed_by": "MajorClaim",
+        "length": 7,
+        "span": "However",
+        "id": "essay005_4"
+    },
+    {
+        "start": 159,
+        "end": 172,
+        "followed_by": "MajorClaim",
+        "length": 14,
+        "span": "I believe that",
+        "id": "essay006_0"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "Claim",
+        "length": 12,
+        "span": "First of all",
+        "id": "essay006_1"
+    },
+    {
+        "start": 214,
+        "end": 224,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay006_1"
+    },
+    {
+        "start": 284,
+        "end": 292,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay006_1"
+    },
+    {
+        "start": 0,
+        "end": 28,
+        "followed_by": "Claim",
+        "length": 29,
+        "span": "One other important factor is",
+        "id": "essay006_2"
+    },
+    {
+        "start": 145,
+        "end": 155,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay006_2"
+    },
+    {
+        "start": 152,
+        "end": 162,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "Furthermore",
+        "id": "essay006_3"
+    },
+    {
+        "start": 505,
+        "end": 508,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Also",
+        "id": "essay006_3"
+    },
+    {
+        "start": 0,
+        "end": 12,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "In conclusion",
+        "id": "essay006_4"
+    },
+    {
+        "start": 209,
+        "end": 215,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay021_0"
+    },
+    {
+        "start": 310,
+        "end": 322,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay021_0"
+    },
+    {
+        "start": 61,
+        "end": 69,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay021_1"
+    },
+    {
+        "start": 504,
+        "end": 522,
+        "followed_by": "Premise",
+        "length": 19,
+        "span": "As a result of this",
+        "id": "essay021_1"
+    },
+    {
+        "start": 413,
+        "end": 419,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay021_2"
+    },
+    {
+        "start": 469,
+        "end": 489,
+        "followed_by": "Premise",
+        "length": 21,
+        "span": "Considering this fact",
+        "id": "essay021_2"
+    },
+    {
+        "start": 0,
+        "end": 94,
+        "followed_by": "MajorClaim",
+        "length": 95,
+        "span": "In conclusion, as I believe that consumers should consider major needs when they purchase goods",
+        "id": "essay021_3"
+    },
+    {
+        "start": 189,
+        "end": 200,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay042_1"
+    },
+    {
+        "start": 360,
+        "end": 378,
+        "followed_by": "Premise",
+        "length": 19,
+        "span": "ue to the fact that",
+        "id": "essay042_1"
+    },
+    {
+        "start": 0,
+        "end": 27,
+        "followed_by": "Claim",
+        "length": 28,
+        "span": "Nevertheless, I believe that",
+        "id": "essay042_2"
+    },
+    {
+        "start": 337,
+        "end": 349,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "By doing this",
+        "id": "essay042_2"
+    },
+    {
+        "start": 0,
+        "end": 24,
+        "followed_by": "MajorClaim",
+        "length": 25,
+        "span": "To sum up, I believe that",
+        "id": "essay042_3"
+    },
+    {
+        "start": 114,
+        "end": 126,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "Alternatively",
+        "id": "essay042_3"
+    },
+    {
+        "start": 235,
+        "end": 238,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "ince",
+        "id": "essay042_3"
+    },
+    {
+        "start": 0,
+        "end": 21,
+        "followed_by": "Claim",
+        "length": 22,
+        "span": "Some people claim that",
+        "id": "essay052_1"
+    },
+    {
+        "start": 94,
+        "end": 105,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "First of all",
+        "id": "essay052_1"
+    },
+    {
+        "start": 331,
+        "end": 341,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "Fortunately",
+        "id": "essay052_1"
+    },
+    {
+        "start": 497,
+        "end": 507,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay052_1"
+    },
+    {
+        "start": 0,
+        "end": 34,
+        "followed_by": "Claim",
+        "length": 35,
+        "span": "However, the opponents believe that",
+        "id": "essay052_2"
+    },
+    {
+        "start": 145,
+        "end": 148,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Even",
+        "id": "essay052_2"
+    },
+    {
+        "start": 306,
+        "end": 326,
+        "followed_by": "Premise",
+        "length": 21,
+        "span": "It is undeniable that",
+        "id": "essay052_2"
+    },
+    {
+        "start": 449,
+        "end": 457,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Obviously",
+        "id": "essay052_2"
+    },
+    {
+        "start": 0,
+        "end": 9,
+        "followed_by": "MajorClaim",
+        "length": 10,
+        "span": "Personally",
+        "id": "essay052_3"
+    },
+    {
+        "start": 125,
+        "end": 127,
+        "followed_by": "Claim",
+        "length": 3,
+        "span": "But",
+        "id": "essay052_3"
+    },
+    {
+        "start": 270,
+        "end": 280,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay061_1"
+    },
+    {
+        "start": 382,
+        "end": 384,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "But",
+        "id": "essay061_1"
+    },
+    {
+        "start": 0,
+        "end": 7,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay061_2"
+    },
+    {
+        "start": 0,
+        "end": 44,
+        "followed_by": "Claim",
+        "length": 45,
+        "span": "Nevertheless, with all the mentioned demerits",
+        "id": "essay061_4"
+    },
+    {
+        "start": 104,
+        "end": 107,
+        "followed_by": "MajorClaim",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay061_4"
+    },
+    {
+        "start": 0,
+        "end": 89,
+        "followed_by": "MajorClaim",
+        "length": 90,
+        "span": "Should government control media crime\n\nThe soaring crime rate has led to the proposal that",
+        "id": "essay068_0"
+    },
+    {
+        "start": 358,
+        "end": 358,
+        "followed_by": "Premise",
+        "length": 1,
+        "span": "s",
+        "id": "essay068_1"
+    },
+    {
+        "start": 0,
+        "end": 16,
+        "followed_by": "Premise",
+        "length": 17,
+        "span": "On the other hand",
+        "id": "essay068_2"
+    },
+    {
+        "start": 272,
+        "end": 278,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "However",
+        "id": "essay068_2"
+    },
+    {
+        "start": 0,
+        "end": 18,
+        "followed_by": "Claim",
+        "length": 19,
+        "span": "We cannot deny that",
+        "id": "essay068_3"
+    },
+    {
+        "start": 327,
+        "end": 341,
+        "followed_by": "MajorClaim",
+        "length": 15,
+        "span": "My view is that",
+        "id": "essay071_0"
+    },
+    {
+        "start": 102,
+        "end": 108,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "In fact",
+        "id": "essay071_1"
+    },
+    {
+        "start": 0,
+        "end": 26,
+        "followed_by": "Claim",
+        "length": 27,
+        "span": "Besides, it is obvious that",
+        "id": "essay071_2"
+    },
+    {
+        "start": 123,
+        "end": 139,
+        "followed_by": "Premise",
+        "length": 17,
+        "span": "In a larger sense",
+        "id": "essay071_2"
+    },
+    {
+        "start": 68,
+        "end": 76,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Of course",
+        "id": "essay071_3"
+    },
+    {
+        "start": 242,
+        "end": 244,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "Yet",
+        "id": "essay071_3"
+    },
+    {
+        "start": 0,
+        "end": 17,
+        "followed_by": "MajorClaim",
+        "length": 18,
+        "span": "Taken all together",
+        "id": "essay071_4"
+    },
+    {
+        "start": 173,
+        "end": 307,
+        "followed_by": "MajorClaim",
+        "length": 135,
+        "span": "Although miscellaneous people may apply diverse strategies, such as reading, watching movies, or working in their gardens, I argue that",
+        "id": "essay072_0"
+    },
+    {
+        "start": 0,
+        "end": 23,
+        "followed_by": "Claim",
+        "length": 24,
+        "span": "It is not surprised that",
+        "id": "essay072_1"
+    },
+    {
+        "start": 227,
+        "end": 234,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay072_1"
+    },
+    {
+        "start": 214,
+        "end": 217,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay072_2"
+    },
+    {
+        "start": 290,
+        "end": 297,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay072_2"
+    },
+    {
+        "start": 0,
+        "end": 12,
+        "followed_by": "Claim",
+        "length": 13,
+        "span": "In a nutshell",
+        "id": "essay072_3"
+    },
+    {
+        "start": 53,
+        "end": 79,
+        "followed_by": "MajorClaim",
+        "length": 27,
+        "span": "Nevertheless, I assert that",
+        "id": "essay072_3"
+    },
+    {
+        "start": 287,
+        "end": 330,
+        "followed_by": "MajorClaim",
+        "length": 44,
+        "span": "I would not go along with their viewpoint as",
+        "id": "essay077_0"
+    },
+    {
+        "start": 0,
+        "end": 23,
+        "followed_by": "Premise",
+        "length": 24,
+        "span": "There is no denying that",
+        "id": "essay077_1"
+    },
+    {
+        "start": 211,
+        "end": 221,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "In contrast",
+        "id": "essay077_1"
+    },
+    {
+        "start": 281,
+        "end": 281,
+        "followed_by": "Premise",
+        "length": 1,
+        "span": "s",
+        "id": "essay077_1"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "Claim",
+        "length": 12,
+        "span": "Additionally",
+        "id": "essay077_2"
+    },
+    {
+        "start": 420,
+        "end": 426,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Further",
+        "id": "essay077_2"
+    },
+    {
+        "start": 0,
+        "end": 16,
+        "followed_by": "Claim",
+        "length": 17,
+        "span": "On the other hand",
+        "id": "essay077_3"
+    },
+    {
+        "start": 75,
+        "end": 89,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "It is true that",
+        "id": "essay077_3"
+    },
+    {
+        "start": 207,
+        "end": 210,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Also",
+        "id": "essay077_3"
+    },
+    {
+        "start": 0,
+        "end": 47,
+        "followed_by": "MajorClaim",
+        "length": 48,
+        "span": "In order to protect animals, from my perspective",
+        "id": "essay077_4"
+    },
+    {
+        "start": 0,
+        "end": 37,
+        "followed_by": "Premise",
+        "length": 38,
+        "span": "First, it is generally understood that",
+        "id": "essay082_1"
+    },
+    {
+        "start": 275,
+        "end": 278,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "Also",
+        "id": "essay082_1"
+    },
+    {
+        "start": 337,
+        "end": 347,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay082_1"
+    },
+    {
+        "start": 457,
+        "end": 464,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "nd hence",
+        "id": "essay082_1"
+    },
+    {
+        "start": 102,
+        "end": 108,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "Firstly",
+        "id": "essay082_2"
+    },
+    {
+        "start": 321,
+        "end": 328,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Secondly",
+        "id": "essay082_2"
+    },
+    {
+        "start": 450,
+        "end": 458,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay082_2"
+    },
+    {
+        "start": 0,
+        "end": 122,
+        "followed_by": "Claim",
+        "length": 123,
+        "span": "In conclusion, after analyzing the pros and cons of advertising, both of the views have strong support, but it is felt that",
+        "id": "essay082_3"
+    },
+    {
+        "start": 167,
+        "end": 170,
+        "followed_by": "MajorClaim",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay082_3"
+    },
+    {
+        "start": 183,
+        "end": 203,
+        "followed_by": "MajorClaim",
+        "length": 21,
+        "span": "From my point of view",
+        "id": "essay086_0"
+    },
+    {
+        "start": 0,
+        "end": 35,
+        "followed_by": "Premise",
+        "length": 36,
+        "span": "To begin with, it is undeniable that",
+        "id": "essay086_1"
+    },
+    {
+        "start": 104,
+        "end": 115,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay086_1"
+    },
+    {
+        "start": 281,
+        "end": 289,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay086_1"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "What is more",
+        "id": "essay086_2"
+    },
+    {
+        "start": 156,
+        "end": 166,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay086_2"
+    },
+    {
+        "start": 218,
+        "end": 224,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay086_2"
+    },
+    {
+        "start": 0,
+        "end": 6,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Finally",
+        "id": "essay086_3"
+    },
+    {
+        "start": 56,
+        "end": 57,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "so",
+        "id": "essay086_3"
+    },
+    {
+        "start": 226,
+        "end": 233,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "therefor",
+        "id": "essay086_3"
+    },
+    {
+        "start": 0,
+        "end": 18,
+        "followed_by": "Claim",
+        "length": 19,
+        "span": "To sum up, although",
+        "id": "essay086_4"
+    },
+    {
+        "start": 217,
+        "end": 235,
+        "followed_by": "MajorClaim",
+        "length": 19,
+        "span": "From my perspective",
+        "id": "essay091_0"
+    },
+    {
+        "start": 0,
+        "end": 49,
+        "followed_by": "Premise",
+        "length": 50,
+        "span": "It is especially true if we consider the fact that",
+        "id": "essay091_1"
+    },
+    {
+        "start": 336,
+        "end": 346,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In contrast",
+        "id": "essay091_1"
+    },
+    {
+        "start": 534,
+        "end": 542,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay091_1"
+    },
+    {
+        "start": 0,
+        "end": 3,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "Also",
+        "id": "essay091_2"
+    },
+    {
+        "start": 365,
+        "end": 375,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay091_2"
+    },
+    {
+        "start": 95,
+        "end": 113,
+        "followed_by": "Claim",
+        "length": 19,
+        "span": "To be more specific",
+        "id": "essay091_3"
+    },
+    {
+        "start": 210,
+        "end": 224,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "This is because",
+        "id": "essay091_3"
+    },
+    {
+        "start": 346,
+        "end": 357,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay091_3"
+    },
+    {
+        "start": 442,
+        "end": 461,
+        "followed_by": "Premise",
+        "length": 20,
+        "span": "due to the fact that",
+        "id": "essay091_3"
+    },
+    {
+        "start": 0,
+        "end": 31,
+        "followed_by": "MajorClaim",
+        "length": 32,
+        "span": "Therefore, I would conclude that",
+        "id": "essay091_4"
+    },
+    {
+        "start": 146,
+        "end": 162,
+        "followed_by": "Claim",
+        "length": 17,
+        "span": "On the other hand",
+        "id": "essay091_4"
+    },
+    {
+        "start": 174,
+        "end": 249,
+        "followed_by": "MajorClaim",
+        "length": 76,
+        "span": "As sport has become a common passion which passed over every national border",
+        "id": "essay097_0"
+    },
+    {
+        "start": 0,
+        "end": 17,
+        "followed_by": "Premise",
+        "length": 18,
+        "span": "First and foremost",
+        "id": "essay097_1"
+    },
+    {
+        "start": 131,
+        "end": 136,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "o that",
+        "id": "essay097_1"
+    },
+    {
+        "start": 228,
+        "end": 234,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Because",
+        "id": "essay097_1"
+    },
+    {
+        "start": 378,
+        "end": 389,
+        "followed_by": "Claim",
+        "length": 12,
+        "span": "Consequently",
+        "id": "essay097_1"
+    },
+    {
+        "start": 0,
+        "end": 7,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Secondly",
+        "id": "essay097_2"
+    },
+    {
+        "start": 435,
+        "end": 446,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay097_2"
+    },
+    {
+        "start": 735,
+        "end": 741,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "In fact",
+        "id": "essay097_2"
+    },
+    {
+        "start": 841,
+        "end": 847,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay097_2"
+    },
+    {
+        "start": 896,
+        "end": 925,
+        "followed_by": "Claim",
+        "length": 30,
+        "span": "Therefore, it can be said that",
+        "id": "essay097_2"
+    },
+    {
+        "start": 322,
+        "end": 342,
+        "followed_by": "MajorClaim",
+        "length": 21,
+        "span": "From my point of view",
+        "id": "essay098_0"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "First of all",
+        "id": "essay098_1"
+    },
+    {
+        "start": 301,
+        "end": 309,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay098_1"
+    },
+    {
+        "start": 0,
+        "end": 7,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "Secondly",
+        "id": "essay098_2"
+    },
+    {
+        "start": 68,
+        "end": 74,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "because",
+        "id": "essay098_2"
+    },
+    {
+        "start": 253,
+        "end": 263,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay098_2"
+    },
+    {
+        "start": 0,
+        "end": 25,
+        "followed_by": "Claim",
+        "length": 26,
+        "span": "Some people may argue that",
+        "id": "essay098_3"
+    },
+    {
+        "start": 131,
+        "end": 137,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay098_3"
+    },
+    {
+        "start": 0,
+        "end": 32,
+        "followed_by": "Claim",
+        "length": 33,
+        "span": "Many people hold the opinion that",
+        "id": "essay103_1"
+    },
+    {
+        "start": 168,
+        "end": 191,
+        "followed_by": "Premise",
+        "length": 24,
+        "span": "We must acknowledge that",
+        "id": "essay103_1"
+    },
+    {
+        "start": 345,
+        "end": 355,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "Furthermore",
+        "id": "essay103_1"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "Claim",
+        "length": 12,
+        "span": "Nevertheless",
+        "id": "essay103_2"
+    },
+    {
+        "start": 186,
+        "end": 197,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay103_2"
+    },
+    {
+        "start": 152,
+        "end": 155,
+        "followed_by": "MajorClaim",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay103_3"
+    },
+    {
+        "start": 509,
+        "end": 534,
+        "followed_by": "MajorClaim",
+        "length": 26,
+        "span": "Personally, I believe that",
+        "id": "essay104_0"
+    },
+    {
+        "start": 0,
+        "end": 17,
+        "followed_by": "Claim",
+        "length": 18,
+        "span": "First and foremost",
+        "id": "essay104_1"
+    },
+    {
+        "start": 294,
+        "end": 300,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "As such",
+        "id": "essay104_1"
+    },
+    {
+        "start": 370,
+        "end": 377,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay104_1"
+    },
+    {
+        "start": 612,
+        "end": 629,
+        "followed_by": "Premise",
+        "length": 18,
+        "span": "Last but not least",
+        "id": "essay104_1"
+    },
+    {
+        "start": 0,
+        "end": 17,
+        "followed_by": "Claim",
+        "length": 18,
+        "span": "In the near future",
+        "id": "essay104_2"
+    },
+    {
+        "start": 0,
+        "end": 21,
+        "followed_by": "Claim",
+        "length": 22,
+        "span": "Critics may argue that",
+        "id": "essay104_3"
+    },
+    {
+        "start": 153,
+        "end": 188,
+        "followed_by": "Premise",
+        "length": 36,
+        "span": "However, we should bear in mind that",
+        "id": "essay104_3"
+    },
+    {
+        "start": 300,
+        "end": 303,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay104_3"
+    },
+    {
+        "start": 0,
+        "end": 34,
+        "followed_by": "MajorClaim",
+        "length": 35,
+        "span": "After analyzing both points of view",
+        "id": "essay104_4"
+    },
+    {
+        "start": 0,
+        "end": 9,
+        "followed_by": "Claim",
+        "length": 10,
+        "span": "Admittedly",
+        "id": "essay108_1"
+    },
+    {
+        "start": 133,
+        "end": 139,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Firstly",
+        "id": "essay108_1"
+    },
+    {
+        "start": 268,
+        "end": 282,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "This is because",
+        "id": "essay108_1"
+    },
+    {
+        "start": 377,
+        "end": 384,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Secondly",
+        "id": "essay108_1"
+    },
+    {
+        "start": 0,
+        "end": 6,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "However",
+        "id": "essay108_2"
+    },
+    {
+        "start": 198,
+        "end": 218,
+        "followed_by": "Premise",
+        "length": 21,
+        "span": "It is undeniable that",
+        "id": "essay108_2"
+    },
+    {
+        "start": 505,
+        "end": 515,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay108_2"
+    },
+    {
+        "start": 0,
+        "end": 25,
+        "followed_by": "Claim",
+        "length": 26,
+        "span": "In conclusion, even though",
+        "id": "essay108_3"
+    },
+    {
+        "start": 87,
+        "end": 107,
+        "followed_by": "MajorClaim",
+        "length": 21,
+        "span": "it is convincing that",
+        "id": "essay108_3"
+    },
+    {
+        "start": 0,
+        "end": 19,
+        "followed_by": "Claim",
+        "length": 20,
+        "span": "Some people say that",
+        "id": "essay117_1"
+    },
+    {
+        "start": 122,
+        "end": 136,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "They argue that",
+        "id": "essay117_1"
+    },
+    {
+        "start": 0,
+        "end": 46,
+        "followed_by": "Claim",
+        "length": 47,
+        "span": "On the other hand there are people who say that",
+        "id": "essay117_2"
+    },
+    {
+        "start": 93,
+        "end": 107,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "They opine that",
+        "id": "essay117_2"
+    },
+    {
+        "start": 364,
+        "end": 374,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "Furthermore",
+        "id": "essay117_3"
+    },
+    {
+        "start": 0,
+        "end": 46,
+        "followed_by": "MajorClaim",
+        "length": 47,
+        "span": "To put it in a nutshell, I pen down saying that",
+        "id": "essay117_4"
+    },
+    {
+        "start": 0,
+        "end": 65,
+        "followed_by": "Claim",
+        "length": 66,
+        "span": "Central to the supporting arguments of this issue is the idea that",
+        "id": "essay119_1"
+    },
+    {
+        "start": 267,
+        "end": 277,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "As a result",
+        "id": "essay119_2"
+    },
+    {
+        "start": 335,
+        "end": 344,
+        "followed_by": "Premise",
+        "length": 10,
+        "span": "Admittedly",
+        "id": "essay119_2"
+    },
+    {
+        "start": 431,
+        "end": 432,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "ut",
+        "id": "essay119_2"
+    },
+    {
+        "start": 0,
+        "end": 101,
+        "followed_by": "Claim",
+        "length": 102,
+        "span": "In short, although both sides have their equally valid arguments, I am inclined to think that although",
+        "id": "essay119_3"
+    },
+    {
+        "start": 179,
+        "end": 205,
+        "followed_by": "MajorClaim",
+        "length": 27,
+        "span": "However, I still agree that",
+        "id": "essay126_0"
+    },
+    {
+        "start": 0,
+        "end": 19,
+        "followed_by": "Premise",
+        "length": 20,
+        "span": "We can not deny that",
+        "id": "essay126_1"
+    },
+    {
+        "start": 91,
+        "end": 95,
+        "followed_by": "Premise",
+        "length": 5,
+        "span": "First",
+        "id": "essay126_1"
+    },
+    {
+        "start": 140,
+        "end": 148,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "I believe",
+        "id": "essay126_1"
+    },
+    {
+        "start": 505,
+        "end": 506,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "So",
+        "id": "essay126_1"
+    },
+    {
+        "start": 66,
+        "end": 106,
+        "followed_by": "Premise",
+        "length": 41,
+        "span": "Because of the similarity I talked before",
+        "id": "essay126_2"
+    },
+    {
+        "start": 185,
+        "end": 192,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay126_2"
+    },
+    {
+        "start": 698,
+        "end": 710,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "And I believe",
+        "id": "essay126_2"
+    },
+    {
+        "start": 746,
+        "end": 758,
+        "followed_by": "Claim",
+        "length": 13,
+        "span": "In conclusion",
+        "id": "essay126_2"
+    },
+    {
+        "start": 0,
+        "end": 4,
+        "followed_by": "MajorClaim",
+        "length": 5,
+        "span": "To me",
+        "id": "essay126_3"
+    },
+    {
+        "start": 397,
+        "end": 423,
+        "followed_by": "MajorClaim",
+        "length": 27,
+        "span": "I favor the former; that is",
+        "id": "essay129_0"
+    },
+    {
+        "start": 0,
+        "end": 61,
+        "followed_by": "Premise",
+        "length": 62,
+        "span": "The first and foremost reason lies in the inevitable fact that",
+        "id": "essay129_1"
+    },
+    {
+        "start": 264,
+        "end": 269,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay129_1"
+    },
+    {
+        "start": 428,
+        "end": 464,
+        "followed_by": "Claim",
+        "length": 37,
+        "span": "Therefore, we can start to agree that",
+        "id": "essay129_1"
+    },
+    {
+        "start": 0,
+        "end": 77,
+        "followed_by": "Premise",
+        "length": 78,
+        "span": "Apart from the one I have mentioned above, another equally important aspect is",
+        "id": "essay129_2"
+    },
+    {
+        "start": 253,
+        "end": 264,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay129_2"
+    },
+    {
+        "start": 402,
+        "end": 453,
+        "followed_by": "Claim",
+        "length": 52,
+        "span": "Hence, from this case we are capable of stating that",
+        "id": "essay129_2"
+    },
+    {
+        "start": 0,
+        "end": 73,
+        "followed_by": "Claim",
+        "length": 74,
+        "span": "Admittedly, on the other hand, there might be some people proclaiming that",
+        "id": "essay129_3"
+    },
+    {
+        "start": 122,
+        "end": 127,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay129_3"
+    },
+    {
+        "start": 402,
+        "end": 412,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In contrast",
+        "id": "essay129_3"
+    },
+    {
+        "start": 0,
+        "end": 54,
+        "followed_by": "MajorClaim",
+        "length": 55,
+        "span": "Based on the reasons demonstrated above, I believe that",
+        "id": "essay129_4"
+    },
+    {
+        "start": 91,
+        "end": 96,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay129_4"
+    },
+    {
+        "start": 174,
+        "end": 187,
+        "followed_by": "MajorClaim",
+        "length": 14,
+        "span": "In other words",
+        "id": "essay129_4"
+    },
+    {
+        "start": 242,
+        "end": 281,
+        "followed_by": "Claim",
+        "length": 40,
+        "span": "Despite the argument of some people that",
+        "id": "essay136_0"
+    },
+    {
+        "start": 364,
+        "end": 384,
+        "followed_by": "MajorClaim",
+        "length": 21,
+        "span": "I firmly believe that",
+        "id": "essay136_0"
+    },
+    {
+        "start": 0,
+        "end": 20,
+        "followed_by": "Premise",
+        "length": 21,
+        "span": "It is undeniable that",
+        "id": "essay136_1"
+    },
+    {
+        "start": 471,
+        "end": 478,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay136_1"
+    },
+    {
+        "start": 646,
+        "end": 652,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Besides",
+        "id": "essay136_1"
+    },
+    {
+        "start": 786,
+        "end": 789,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay136_1"
+    },
+    {
+        "start": 339,
+        "end": 347,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay136_2"
+    },
+    {
+        "start": 0,
+        "end": 49,
+        "followed_by": "MajorClaim",
+        "length": 50,
+        "span": "To put it all in a nutshell, I pen out saying that",
+        "id": "essay136_3"
+    },
+    {
+        "start": 245,
+        "end": 257,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay139_0"
+    },
+    {
+        "start": 0,
+        "end": 63,
+        "followed_by": "Premise",
+        "length": 64,
+        "span": "Animal protectionists may base their argument on the ground that",
+        "id": "essay139_1"
+    },
+    {
+        "start": 291,
+        "end": 299,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay139_1"
+    },
+    {
+        "start": 0,
+        "end": 15,
+        "followed_by": "Claim",
+        "length": 16,
+        "span": "However, I think",
+        "id": "essay139_2"
+    },
+    {
+        "start": 240,
+        "end": 245,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay139_2"
+    },
+    {
+        "start": 297,
+        "end": 313,
+        "followed_by": "Premise",
+        "length": 17,
+        "span": "On most occasions",
+        "id": "essay139_2"
+    },
+    {
+        "start": 0,
+        "end": 10,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "Furthermore",
+        "id": "essay139_3"
+    },
+    {
+        "start": 157,
+        "end": 164,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "Although",
+        "id": "essay142_0"
+    },
+    {
+        "start": 240,
+        "end": 268,
+        "followed_by": "MajorClaim",
+        "length": 29,
+        "span": "I am inclined to believe that",
+        "id": "essay142_0"
+    },
+    {
+        "start": 182,
+        "end": 187,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay142_1"
+    },
+    {
+        "start": 235,
+        "end": 248,
+        "followed_by": "Premise",
+        "length": 14,
+        "span": "In other words",
+        "id": "essay142_1"
+    },
+    {
+        "start": 320,
+        "end": 320,
+        "followed_by": "Premise",
+        "length": 1,
+        "span": "o",
+        "id": "essay142_1"
+    },
+    {
+        "start": 0,
+        "end": 10,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay142_2"
+    },
+    {
+        "start": 133,
+        "end": 140,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "In facts",
+        "id": "essay142_2"
+    },
+    {
+        "start": 214,
+        "end": 232,
+        "followed_by": "Claim",
+        "length": 19,
+        "span": "It can be said that",
+        "id": "essay142_2"
+    },
+    {
+        "start": 0,
+        "end": 43,
+        "followed_by": "Claim",
+        "length": 44,
+        "span": "On the other hand, some people maintain that",
+        "id": "essay142_3"
+    },
+    {
+        "start": 231,
+        "end": 281,
+        "followed_by": "Premise",
+        "length": 51,
+        "span": "Although it is real in some aspects, I believe that",
+        "id": "essay142_3"
+    },
+    {
+        "start": 391,
+        "end": 392,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "so",
+        "id": "essay142_3"
+    },
+    {
+        "start": 0,
+        "end": 36,
+        "followed_by": "MajorClaim",
+        "length": 37,
+        "span": "By way of conclusion, it is true that",
+        "id": "essay142_4"
+    },
+    {
+        "start": 286,
+        "end": 298,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "It seems that",
+        "id": "essay149_0"
+    },
+    {
+        "start": 403,
+        "end": 415,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay149_0"
+    },
+    {
+        "start": 94,
+        "end": 98,
+        "followed_by": "Premise",
+        "length": 5,
+        "span": "Since",
+        "id": "essay149_1"
+    },
+    {
+        "start": 283,
+        "end": 293,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay149_1"
+    },
+    {
+        "start": 357,
+        "end": 358,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "so",
+        "id": "essay149_1"
+    },
+    {
+        "start": 646,
+        "end": 651,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay149_1"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "Claim",
+        "length": 12,
+        "span": "What is more",
+        "id": "essay149_2"
+    },
+    {
+        "start": 64,
+        "end": 74,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay149_2"
+    },
+    {
+        "start": 352,
+        "end": 358,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Besides",
+        "id": "essay149_2"
+    },
+    {
+        "start": 0,
+        "end": 8,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "In a word",
+        "id": "essay149_3"
+    },
+    {
+        "start": 79,
+        "end": 92,
+        "followed_by": "MajorClaim",
+        "length": 14,
+        "span": "I believe that",
+        "id": "essay149_3"
+    },
+    {
+        "start": 293,
+        "end": 316,
+        "followed_by": "MajorClaim",
+        "length": 24,
+        "span": "As far as I am concerned",
+        "id": "essay154_0"
+    },
+    {
+        "start": 353,
+        "end": 367,
+        "followed_by": "Claim",
+        "length": 15,
+        "span": "This is because",
+        "id": "essay154_0"
+    },
+    {
+        "start": 120,
+        "end": 129,
+        "followed_by": "Premise",
+        "length": 10,
+        "span": "This means",
+        "id": "essay154_1"
+    },
+    {
+        "start": 158,
+        "end": 168,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay154_1"
+    },
+    {
+        "start": 0,
+        "end": 31,
+        "followed_by": "Claim",
+        "length": 32,
+        "span": "Apart from saving a lot of money",
+        "id": "essay154_2"
+    },
+    {
+        "start": 254,
+        "end": 265,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay154_2"
+    },
+    {
+        "start": 0,
+        "end": 6,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "Finally",
+        "id": "essay154_3"
+    },
+    {
+        "start": 251,
+        "end": 263,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "To illustrate",
+        "id": "essay154_3"
+    },
+    {
+        "start": 0,
+        "end": 19,
+        "followed_by": "Claim",
+        "length": 20,
+        "span": "In conclusion, while",
+        "id": "essay154_4"
+    },
+    {
+        "start": 128,
+        "end": 142,
+        "followed_by": "Claim",
+        "length": 15,
+        "span": "This is because",
+        "id": "essay154_4"
+    },
+    {
+        "start": 345,
+        "end": 372,
+        "followed_by": "MajorClaim",
+        "length": 28,
+        "span": "Alternatively I believe that",
+        "id": "essay160_0"
+    },
+    {
+        "start": 113,
+        "end": 118,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay160_1"
+    },
+    {
+        "start": 241,
+        "end": 248,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Secondly",
+        "id": "essay160_1"
+    },
+    {
+        "start": 288,
+        "end": 295,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "herefore",
+        "id": "essay160_1"
+    },
+    {
+        "start": 342,
+        "end": 353,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "or instance ",
+        "id": "essay160_1"
+    },
+    {
+        "start": 0,
+        "end": 14,
+        "followed_by": "Claim",
+        "length": 15,
+        "span": "On the contrary",
+        "id": "essay160_2"
+    },
+    {
+        "start": 189,
+        "end": 194,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay160_2"
+    },
+    {
+        "start": 412,
+        "end": 420,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay160_2"
+    },
+    {
+        "start": 0,
+        "end": 10,
+        "followed_by": "MajorClaim",
+        "length": 11,
+        "span": "To conclude",
+        "id": "essay160_3"
+    },
+    {
+        "start": 243,
+        "end": 292,
+        "followed_by": "MajorClaim",
+        "length": 50,
+        "span": "However, despite the advantages of small town life",
+        "id": "essay163_0"
+    },
+    {
+        "start": 0,
+        "end": 14,
+        "followed_by": "Claim",
+        "length": 15,
+        "span": "On the one hand",
+        "id": "essay163_1"
+    },
+    {
+        "start": 110,
+        "end": 130,
+        "followed_by": "Premise",
+        "length": 21,
+        "span": "To make it convenient",
+        "id": "essay163_1"
+    },
+    {
+        "start": 213,
+        "end": 223,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "What's more",
+        "id": "essay163_1"
+    },
+    {
+        "start": 153,
+        "end": 164,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay163_2"
+    },
+    {
+        "start": 308,
+        "end": 310,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "But",
+        "id": "essay163_2"
+    },
+    {
+        "start": 0,
+        "end": 10,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "Furthermore",
+        "id": "essay163_3"
+    },
+    {
+        "start": 226,
+        "end": 236,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay163_3"
+    },
+    {
+        "start": 137,
+        "end": 144,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Although",
+        "id": "essay169_0"
+    },
+    {
+        "start": 259,
+        "end": 282,
+        "followed_by": "MajorClaim",
+        "length": 24,
+        "span": "As far as I am concerned",
+        "id": "essay169_0"
+    },
+    {
+        "start": 0,
+        "end": 30,
+        "followed_by": "Premise",
+        "length": 31,
+        "span": "To begin with, it is vital that",
+        "id": "essay169_1"
+    },
+    {
+        "start": 404,
+        "end": 414,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In this way",
+        "id": "essay169_1"
+    },
+    {
+        "start": 542,
+        "end": 550,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay169_1"
+    },
+    {
+        "start": 330,
+        "end": 340,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In this way",
+        "id": "essay169_2"
+    },
+    {
+        "start": 447,
+        "end": 457,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "Accordingly",
+        "id": "essay169_2"
+    },
+    {
+        "start": 240,
+        "end": 251,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay169_3"
+    },
+    {
+        "start": 466,
+        "end": 472,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay169_3"
+    },
+    {
+        "start": 651,
+        "end": 663,
+        "followed_by": "Claim",
+        "length": 13,
+        "span": "In other word",
+        "id": "essay169_3"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "Consequently",
+        "id": "essay169_4"
+    },
+    {
+        "start": 89,
+        "end": 95,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay169_4"
+    },
+    {
+        "start": 200,
+        "end": 306,
+        "followed_by": "MajorClaim",
+        "length": 107,
+        "span": "After considering the level of freedom, the studying conditions and the economic factor, if I had to choose",
+        "id": "essay172_0"
+    },
+    {
+        "start": 266,
+        "end": 271,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay172_1"
+    },
+    {
+        "start": 351,
+        "end": 385,
+        "followed_by": "Premise",
+        "length": 35,
+        "span": "This is an important factor because",
+        "id": "essay172_1"
+    },
+    {
+        "start": 0,
+        "end": 62,
+        "followed_by": "Claim",
+        "length": 63,
+        "span": "Second, from an economic point of view, people often argue that",
+        "id": "essay172_2"
+    },
+    {
+        "start": 96,
+        "end": 122,
+        "followed_by": "Premise",
+        "length": 27,
+        "span": "This is only partially true",
+        "id": "essay172_2"
+    },
+    {
+        "start": 0,
+        "end": 5,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "Lastly",
+        "id": "essay172_3"
+    },
+    {
+        "start": 60,
+        "end": 65,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay172_3"
+    },
+    {
+        "start": 275,
+        "end": 279,
+        "followed_by": "Premise",
+        "length": 5,
+        "span": "Since",
+        "id": "essay172_3"
+    },
+    {
+        "start": 353,
+        "end": 367,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "and as a result",
+        "id": "essay172_3"
+    },
+    {
+        "start": 410,
+        "end": 428,
+        "followed_by": "Premise",
+        "length": 19,
+        "span": "For the same reason",
+        "id": "essay172_3"
+    },
+    {
+        "start": 572,
+        "end": 588,
+        "followed_by": "Premise",
+        "length": 17,
+        "span": "In the other hand",
+        "id": "essay172_3"
+    },
+    {
+        "start": 0,
+        "end": 70,
+        "followed_by": "MajorClaim",
+        "length": 71,
+        "span": "To conclude, both options have their advantages, but personally I think",
+        "id": "essay172_4"
+    },
+    {
+        "start": 219,
+        "end": 237,
+        "followed_by": "MajorClaim",
+        "length": 19,
+        "span": "In my point of view",
+        "id": "essay180_0"
+    },
+    {
+        "start": 0,
+        "end": 17,
+        "followed_by": "Premise",
+        "length": 18,
+        "span": "In the first place",
+        "id": "essay180_1"
+    },
+    {
+        "start": 105,
+        "end": 115,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "Most of all",
+        "id": "essay180_1"
+    },
+    {
+        "start": 735,
+        "end": 738,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay180_1"
+    },
+    {
+        "start": 235,
+        "end": 245,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay180_2"
+    },
+    {
+        "start": 477,
+        "end": 485,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Above all",
+        "id": "essay180_2"
+    },
+    {
+        "start": 94,
+        "end": 111,
+        "followed_by": "Premise",
+        "length": 18,
+        "span": "Here is an example",
+        "id": "essay180_3"
+    },
+    {
+        "start": 484,
+        "end": 494,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "As a result",
+        "id": "essay180_3"
+    },
+    {
+        "start": 542,
+        "end": 552,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "in addition",
+        "id": "essay180_3"
+    },
+    {
+        "start": 0,
+        "end": 66,
+        "followed_by": "MajorClaim",
+        "length": 67,
+        "span": "For the above reasons and examples, it could be widely thought that",
+        "id": "essay180_4"
+    },
+    {
+        "start": 178,
+        "end": 200,
+        "followed_by": "MajorClaim",
+        "length": 23,
+        "span": "However, I believe that",
+        "id": "essay182_0"
+    },
+    {
+        "start": 248,
+        "end": 253,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay182_0"
+    },
+    {
+        "start": 286,
+        "end": 296,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay182_1"
+    },
+    {
+        "start": 376,
+        "end": 387,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "Consequently",
+        "id": "essay182_1"
+    },
+    {
+        "start": 0,
+        "end": 5,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "Second",
+        "id": "essay182_2"
+    },
+    {
+        "start": 204,
+        "end": 212,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay182_2"
+    },
+    {
+        "start": 0,
+        "end": 4,
+        "followed_by": "Claim",
+        "length": 5,
+        "span": "Third",
+        "id": "essay182_3"
+    },
+    {
+        "start": 165,
+        "end": 175,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay182_3"
+    },
+    {
+        "start": 0,
+        "end": 7,
+        "followed_by": "MajorClaim",
+        "length": 8,
+        "span": "In short",
+        "id": "essay182_4"
+    },
+    {
+        "start": 62,
+        "end": 67,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay182_4"
+    },
+    {
+        "start": 94,
+        "end": 102,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Otherwise",
+        "id": "essay182_4"
+    },
+    {
+        "start": 31,
+        "end": 143,
+        "followed_by": "MajorClaim",
+        "length": 113,
+        "span": "\nAlthough there are some advantages to learning a foreign language in its original country, I firmly believe that",
+        "id": "essay187_0"
+    },
+    {
+        "start": 116,
+        "end": 129,
+        "followed_by": "Premise",
+        "length": 14,
+        "span": "In other words",
+        "id": "essay187_1"
+    },
+    {
+        "start": 176,
+        "end": 184,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay187_1"
+    },
+    {
+        "start": 262,
+        "end": 268,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Besides",
+        "id": "essay187_1"
+    },
+    {
+        "start": 324,
+        "end": 325,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "so",
+        "id": "essay187_1"
+    },
+    {
+        "start": 266,
+        "end": 273,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "No doubt",
+        "id": "essay187_2"
+    },
+    {
+        "start": 391,
+        "end": 394,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay187_2"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "On the whole",
+        "id": "essay187_3"
+    },
+    {
+        "start": 0,
+        "end": 88,
+        "followed_by": "MajorClaim",
+        "length": 89,
+        "span": "In a word, although each of these methods have their pros and cons, I am pretty sure that",
+        "id": "essay187_4"
+    },
+    {
+        "start": 0,
+        "end": 255,
+        "followed_by": "MajorClaim",
+        "length": 256,
+        "span": "Spending time with a large number of friends can add more to one's life\n\nDespite friendship is one of the most important values in a man's life, people might have different preferences: some of them prefer to spend time with one or two close friends, while",
+        "id": "essay192_0"
+    },
+    {
+        "start": 0,
+        "end": 23,
+        "followed_by": "Claim",
+        "length": 24,
+        "span": "The first reason is that",
+        "id": "essay192_1"
+    },
+    {
+        "start": 141,
+        "end": 152,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay192_1"
+    },
+    {
+        "start": 0,
+        "end": 8,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Of course",
+        "id": "essay192_2"
+    },
+    {
+        "start": 251,
+        "end": 257,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "In fact",
+        "id": "essay192_2"
+    },
+    {
+        "start": 0,
+        "end": 21,
+        "followed_by": "Claim",
+        "length": 22,
+        "span": "Another reason is that",
+        "id": "essay192_3"
+    },
+    {
+        "start": 148,
+        "end": 158,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay192_3"
+    },
+    {
+        "start": 139,
+        "end": 159,
+        "followed_by": "Premise",
+        "length": 21,
+        "span": "but on the other hand",
+        "id": "essay192_4"
+    },
+    {
+        "start": 0,
+        "end": 136,
+        "followed_by": "MajorClaim",
+        "length": 137,
+        "span": "In sum, although each choice - few close friends or a large number of friends - presents its advantages and its weak points, I think that",
+        "id": "essay192_5"
+    },
+    {
+        "start": 0,
+        "end": 75,
+        "followed_by": "MajorClaim",
+        "length": 76,
+        "span": "Public transportation keeps society from the depletion of natural resources\n",
+        "id": "essay193_0"
+    },
+    {
+        "start": 198,
+        "end": 200,
+        "followed_by": "MajorClaim",
+        "length": 3,
+        "span": "Yet",
+        "id": "essay199_0"
+    },
+    {
+        "start": 235,
+        "end": 240,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay199_0"
+    },
+    {
+        "start": 54,
+        "end": 65,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay199_1"
+    },
+    {
+        "start": 215,
+        "end": 222,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay199_1"
+    },
+    {
+        "start": 327,
+        "end": 339,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay199_1"
+    },
+    {
+        "start": 69,
+        "end": 79,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay199_2"
+    },
+    {
+        "start": 165,
+        "end": 168,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Also",
+        "id": "essay199_2"
+    },
+    {
+        "start": 229,
+        "end": 238,
+        "followed_by": "Premise",
+        "length": 10,
+        "span": "Personally",
+        "id": "essay199_2"
+    },
+    {
+        "start": 138,
+        "end": 144,
+        "followed_by": "MajorClaim",
+        "length": 7,
+        "span": "In fact",
+        "id": "essay199_3"
+    },
+    {
+        "start": 189,
+        "end": 192,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "ince",
+        "id": "essay199_3"
+    },
+    {
+        "start": 424,
+        "end": 443,
+        "followed_by": "MajorClaim",
+        "length": 20,
+        "span": "Therefore in my view",
+        "id": "essay202_0"
+    },
+    {
+        "start": 166,
+        "end": 174,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay202_1"
+    },
+    {
+        "start": 426,
+        "end": 432,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay202_1"
+    },
+    {
+        "start": 811,
+        "end": 830,
+        "followed_by": "Claim",
+        "length": 20,
+        "span": "Therefore, I believe",
+        "id": "essay202_1"
+    },
+    {
+        "start": 370,
+        "end": 376,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay202_2"
+    },
+    {
+        "start": 149,
+        "end": 157,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "After all",
+        "id": "essay202_3"
+    },
+    {
+        "start": 337,
+        "end": 344,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "Although",
+        "id": "essay204_0"
+    },
+    {
+        "start": 384,
+        "end": 389,
+        "followed_by": "MajorClaim",
+        "length": 6,
+        "span": "for me",
+        "id": "essay204_0"
+    },
+    {
+        "start": 187,
+        "end": 198,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "Consequently",
+        "id": "essay204_1"
+    },
+    {
+        "start": 320,
+        "end": 330,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "furthermore",
+        "id": "essay204_2"
+    },
+    {
+        "start": 384,
+        "end": 388,
+        "followed_by": "Premise",
+        "length": 5,
+        "span": "While",
+        "id": "essay204_2"
+    },
+    {
+        "start": 231,
+        "end": 241,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In contrast",
+        "id": "essay204_3"
+    },
+    {
+        "start": 373,
+        "end": 380,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay204_3"
+    },
+    {
+        "start": 225,
+        "end": 254,
+        "followed_by": "MajorClaim",
+        "length": 30,
+        "span": "While some people believe that",
+        "id": "essay211_0"
+    },
+    {
+        "start": 0,
+        "end": 12,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "To begin with",
+        "id": "essay211_1"
+    },
+    {
+        "start": 214,
+        "end": 225,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay211_1"
+    },
+    {
+        "start": 379,
+        "end": 382,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay211_2"
+    },
+    {
+        "start": 466,
+        "end": 466,
+        "followed_by": "Premise",
+        "length": 1,
+        "span": "s",
+        "id": "essay211_2"
+    },
+    {
+        "start": 102,
+        "end": 124,
+        "followed_by": "Premise",
+        "length": 23,
+        "span": "However, I believe that",
+        "id": "essay211_3"
+    },
+    {
+        "start": 149,
+        "end": 154,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay211_3"
+    },
+    {
+        "start": 284,
+        "end": 291,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay211_3"
+    },
+    {
+        "start": 0,
+        "end": 37,
+        "followed_by": "Claim",
+        "length": 38,
+        "span": "In conclusion, I strongly believe that",
+        "id": "essay211_4"
+    },
+    {
+        "start": 128,
+        "end": 136,
+        "followed_by": "MajorClaim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay211_4"
+    },
+    {
+        "start": 375,
+        "end": 383,
+        "followed_by": "MajorClaim",
+        "length": 9,
+        "span": "As for me",
+        "id": "essay212_0"
+    },
+    {
+        "start": 0,
+        "end": 10,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "On one hand",
+        "id": "essay212_1"
+    },
+    {
+        "start": 352,
+        "end": 362,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay212_1"
+    },
+    {
+        "start": 577,
+        "end": 587,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "As a result",
+        "id": "essay212_1"
+    },
+    {
+        "start": 580,
+        "end": 587,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Although",
+        "id": "essay212_2"
+    },
+    {
+        "start": 716,
+        "end": 722,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "because",
+        "id": "essay212_2"
+    },
+    {
+        "start": 0,
+        "end": 9,
+        "followed_by": "MajorClaim",
+        "length": 10,
+        "span": "All in all",
+        "id": "essay212_3"
+    },
+    {
+        "start": 132,
+        "end": 144,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay218_0"
+    },
+    {
+        "start": 268,
+        "end": 278,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay218_1"
+    },
+    {
+        "start": 428,
+        "end": 435,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay218_1"
+    },
+    {
+        "start": 520,
+        "end": 523,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "Also",
+        "id": "essay218_1"
+    },
+    {
+        "start": 69,
+        "end": 77,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay218_2"
+    },
+    {
+        "start": 266,
+        "end": 276,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay218_2"
+    },
+    {
+        "start": 341,
+        "end": 348,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay218_2"
+    },
+    {
+        "start": 0,
+        "end": 13,
+        "followed_by": "MajorClaim",
+        "length": 14,
+        "span": "In other words",
+        "id": "essay218_3"
+    },
+    {
+        "start": 190,
+        "end": 208,
+        "followed_by": "MajorClaim",
+        "length": 19,
+        "span": "In my point of view",
+        "id": "essay220_0"
+    },
+    {
+        "start": 0,
+        "end": 56,
+        "followed_by": "Premise",
+        "length": 57,
+        "span": "First of all, one of the most significant upsides is that",
+        "id": "essay220_1"
+    },
+    {
+        "start": 454,
+        "end": 466,
+        "followed_by": "Claim",
+        "length": 13,
+        "span": "Thus, I think",
+        "id": "essay220_1"
+    },
+    {
+        "start": 135,
+        "end": 143,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay220_2"
+    },
+    {
+        "start": 224,
+        "end": 231,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay220_2"
+    },
+    {
+        "start": 376,
+        "end": 384,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "In a word",
+        "id": "essay220_2"
+    },
+    {
+        "start": 0,
+        "end": 34,
+        "followed_by": "Premise",
+        "length": 35,
+        "span": "The third convincing reason is that",
+        "id": "essay220_3"
+    },
+    {
+        "start": 349,
+        "end": 353,
+        "followed_by": "Claim",
+        "length": 5,
+        "span": "Hence",
+        "id": "essay220_3"
+    },
+    {
+        "start": 0,
+        "end": 8,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "To sum up",
+        "id": "essay220_4"
+    },
+    {
+        "start": 110,
+        "end": 114,
+        "followed_by": "MajorClaim",
+        "length": 5,
+        "span": "Hence",
+        "id": "essay220_4"
+    },
+    {
+        "start": 245,
+        "end": 258,
+        "followed_by": "MajorClaim",
+        "length": 14,
+        "span": "I believe that",
+        "id": "essay221_0"
+    },
+    {
+        "start": 369,
+        "end": 372,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "Also",
+        "id": "essay221_0"
+    },
+    {
+        "start": 159,
+        "end": 168,
+        "followed_by": "Premise",
+        "length": 10,
+        "span": "Inevitably",
+        "id": "essay221_1"
+    },
+    {
+        "start": 354,
+        "end": 361,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay221_1"
+    },
+    {
+        "start": 432,
+        "end": 438,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Besides",
+        "id": "essay221_1"
+    },
+    {
+        "start": 524,
+        "end": 529,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay221_1"
+    },
+    {
+        "start": 203,
+        "end": 213,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "Furthermore",
+        "id": "essay221_2"
+    },
+    {
+        "start": 0,
+        "end": 17,
+        "followed_by": "Premise",
+        "length": 18,
+        "span": "Last but not least",
+        "id": "essay221_3"
+    },
+    {
+        "start": 129,
+        "end": 149,
+        "followed_by": "MajorClaim",
+        "length": 21,
+        "span": "I firmly believe that",
+        "id": "essay221_4"
+    },
+    {
+        "start": 280,
+        "end": 292,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay227_0"
+    },
+    {
+        "start": 87,
+        "end": 91,
+        "followed_by": "Premise",
+        "length": 5,
+        "span": "while",
+        "id": "essay227_1"
+    },
+    {
+        "start": 525,
+        "end": 533,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay227_1"
+    },
+    {
+        "start": 353,
+        "end": 363,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "As a result",
+        "id": "essay227_2"
+    },
+    {
+        "start": 0,
+        "end": 9,
+        "followed_by": "MajorClaim",
+        "length": 10,
+        "span": "In summary",
+        "id": "essay227_3"
+    },
+    {
+        "start": 73,
+        "end": 79,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "because",
+        "id": "essay227_3"
+    },
+    {
+        "start": 312,
+        "end": 334,
+        "followed_by": "MajorClaim",
+        "length": 23,
+        "span": "However, I believe that",
+        "id": "essay229_0"
+    },
+    {
+        "start": 391,
+        "end": 398,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "although",
+        "id": "essay229_0"
+    },
+    {
+        "start": 181,
+        "end": 198,
+        "followed_by": "Premise",
+        "length": 18,
+        "span": "I want to say that",
+        "id": "essay229_1"
+    },
+    {
+        "start": 236,
+        "end": 246,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay229_1"
+    },
+    {
+        "start": 310,
+        "end": 316,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay229_1"
+    },
+    {
+        "start": 388,
+        "end": 432,
+        "followed_by": "Claim",
+        "length": 45,
+        "span": "Some people might say I am silly, but I think",
+        "id": "essay229_1"
+    },
+    {
+        "start": 33,
+        "end": 39,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay229_2"
+    },
+    {
+        "start": 141,
+        "end": 147,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "I agree",
+        "id": "essay229_2"
+    },
+    {
+        "start": 221,
+        "end": 227,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay229_2"
+    },
+    {
+        "start": 327,
+        "end": 332,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay229_2"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "MajorClaim",
+        "length": 12,
+        "span": "I think that",
+        "id": "essay229_3"
+    },
+    {
+        "start": 68,
+        "end": 73,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay229_3"
+    },
+    {
+        "start": 231,
+        "end": 253,
+        "followed_by": "MajorClaim",
+        "length": 23,
+        "span": "However, I believe that",
+        "id": "essay234_0"
+    },
+    {
+        "start": 0,
+        "end": 6,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "Firstly",
+        "id": "essay234_1"
+    },
+    {
+        "start": 44,
+        "end": 62,
+        "followed_by": "Premise",
+        "length": 19,
+        "span": "ue to the fact that",
+        "id": "essay234_1"
+    },
+    {
+        "start": 113,
+        "end": 123,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay234_1"
+    },
+    {
+        "start": 221,
+        "end": 229,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay234_1"
+    },
+    {
+        "start": 318,
+        "end": 328,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay234_1"
+    },
+    {
+        "start": 400,
+        "end": 401,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "so",
+        "id": "essay234_1"
+    },
+    {
+        "start": 0,
+        "end": 11,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "Additionally",
+        "id": "essay234_2"
+    },
+    {
+        "start": 103,
+        "end": 107,
+        "followed_by": "Premise",
+        "length": 5,
+        "span": "Since",
+        "id": "essay234_2"
+    },
+    {
+        "start": 194,
+        "end": 195,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "so",
+        "id": "essay234_2"
+    },
+    {
+        "start": 249,
+        "end": 255,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay234_2"
+    },
+    {
+        "start": 301,
+        "end": 322,
+        "followed_by": "Claim",
+        "length": 22,
+        "span": "Thus, it is clear that",
+        "id": "essay234_2"
+    },
+    {
+        "start": 0,
+        "end": 20,
+        "followed_by": "Claim",
+        "length": 21,
+        "span": "Finally, I think that",
+        "id": "essay234_3"
+    },
+    {
+        "start": 82,
+        "end": 86,
+        "followed_by": "Premise",
+        "length": 5,
+        "span": "since",
+        "id": "essay234_3"
+    },
+    {
+        "start": 295,
+        "end": 336,
+        "followed_by": "Premise",
+        "length": 42,
+        "span": "I support the points of those who say that",
+        "id": "essay234_3"
+    },
+    {
+        "start": 392,
+        "end": 397,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay234_3"
+    },
+    {
+        "start": 0,
+        "end": 21,
+        "followed_by": "MajorClaim",
+        "length": 22,
+        "span": "Ultimately I feel that",
+        "id": "essay234_4"
+    },
+    {
+        "start": 99,
+        "end": 133,
+        "followed_by": "Claim",
+        "length": 35,
+        "span": "I belive this, due to the fact that",
+        "id": "essay234_4"
+    },
+    {
+        "start": 336,
+        "end": 397,
+        "followed_by": "MajorClaim",
+        "length": 62,
+        "span": "From my point of view, I am in favor the former statement that",
+        "id": "essay240_0"
+    },
+    {
+        "start": 0,
+        "end": 12,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "To start with",
+        "id": "essay240_1"
+    },
+    {
+        "start": 350,
+        "end": 360,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "As a result",
+        "id": "essay240_1"
+    },
+    {
+        "start": 0,
+        "end": 10,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "What's more",
+        "id": "essay240_2"
+    },
+    {
+        "start": 99,
+        "end": 105,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Because",
+        "id": "essay240_2"
+    },
+    {
+        "start": 323,
+        "end": 328,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay240_2"
+    },
+    {
+        "start": 0,
+        "end": 132,
+        "followed_by": "MajorClaim",
+        "length": 133,
+        "span": "So, to sum it up, both not afraid of difficulties and appreciating common but pleasant things in their lives drive me to believe that",
+        "id": "essay240_3"
+    },
+    {
+        "start": 0,
+        "end": 117,
+        "followed_by": "MajorClaim",
+        "length": 118,
+        "span": "Life in  a city is much better than life in the countryside\n\nAs far as I am concerned, I agree with the statement that",
+        "id": "essay241_0"
+    },
+    {
+        "start": 60,
+        "end": 75,
+        "followed_by": "Premise",
+        "length": 16,
+        "span": "This means, that",
+        "id": "essay241_1"
+    },
+    {
+        "start": 0,
+        "end": 26,
+        "followed_by": "Claim",
+        "length": 27,
+        "span": "In addition, I believe that",
+        "id": "essay241_2"
+    },
+    {
+        "start": 147,
+        "end": 155,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Of course",
+        "id": "essay241_2"
+    },
+    {
+        "start": 193,
+        "end": 195,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "but",
+        "id": "essay241_2"
+    },
+    {
+        "start": 125,
+        "end": 126,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "so",
+        "id": "essay241_4"
+    },
+    {
+        "start": 84,
+        "end": 91,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay241_5"
+    },
+    {
+        "start": 0,
+        "end": 36,
+        "followed_by": "MajorClaim",
+        "length": 37,
+        "span": "Taking all into account, I think that",
+        "id": "essay241_6"
+    },
+    {
+        "start": 261,
+        "end": 267,
+        "followed_by": "MajorClaim",
+        "length": 7,
+        "span": "However",
+        "id": "essay243_0"
+    },
+    {
+        "start": 0,
+        "end": 19,
+        "followed_by": "Claim",
+        "length": 20,
+        "span": "Everyone agrees that",
+        "id": "essay243_1"
+    },
+    {
+        "start": 111,
+        "end": 122,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay243_1"
+    },
+    {
+        "start": 379,
+        "end": 386,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay243_1"
+    },
+    {
+        "start": 0,
+        "end": 10,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay243_2"
+    },
+    {
+        "start": 59,
+        "end": 80,
+        "followed_by": "Premise",
+        "length": 22,
+        "span": "Some people think that",
+        "id": "essay243_2"
+    },
+    {
+        "start": 204,
+        "end": 215,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay243_2"
+    },
+    {
+        "start": 351,
+        "end": 359,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay243_2"
+    },
+    {
+        "start": 55,
+        "end": 55,
+        "followed_by": "Premise",
+        "length": 1,
+        "span": "o",
+        "id": "essay243_3"
+    },
+    {
+        "start": 228,
+        "end": 238,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay243_3"
+    },
+    {
+        "start": 0,
+        "end": 73,
+        "followed_by": "MajorClaim",
+        "length": 74,
+        "span": "On the whole, to compare to all ways of communication, I really think that",
+        "id": "essay243_4"
+    },
+    {
+        "start": 0,
+        "end": 167,
+        "followed_by": "MajorClaim",
+        "length": 168,
+        "span": "Communicating via e-mail and voice mail vs Telephone and face-to face\n\nAlthough many people prefer communicating by telephone or face-to-face, personally I believe that",
+        "id": "essay245_0"
+    },
+    {
+        "start": 206,
+        "end": 211,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay245_1"
+    },
+    {
+        "start": 58,
+        "end": 66,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "As for me",
+        "id": "essay245_2"
+    },
+    {
+        "start": 345,
+        "end": 345,
+        "followed_by": "Premise",
+        "length": 1,
+        "span": "o",
+        "id": "essay245_2"
+    },
+    {
+        "start": 0,
+        "end": 6,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "Thirdly",
+        "id": "essay245_3"
+    },
+    {
+        "start": 149,
+        "end": 159,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay245_3"
+    },
+    {
+        "start": 0,
+        "end": 10,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "And finally",
+        "id": "essay245_4"
+    },
+    {
+        "start": 0,
+        "end": 137,
+        "followed_by": "MajorClaim",
+        "length": 138,
+        "span": "To sum up, I would like to say that for me both options of communicating are possible, but if this is an important and not urgent question",
+        "id": "essay245_5"
+    },
+    {
+        "start": 343,
+        "end": 369,
+        "followed_by": "MajorClaim",
+        "length": 27,
+        "span": "In my opinion, I agree that",
+        "id": "essay252_0"
+    },
+    {
+        "start": 423,
+        "end": 428,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay252_0"
+    },
+    {
+        "start": 394,
+        "end": 399,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay252_1"
+    },
+    {
+        "start": 190,
+        "end": 198,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay252_2"
+    },
+    {
+        "start": 306,
+        "end": 311,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay252_2"
+    },
+    {
+        "start": 0,
+        "end": 36,
+        "followed_by": "Claim",
+        "length": 37,
+        "span": "However, some people might argue that",
+        "id": "essay252_3"
+    },
+    {
+        "start": 88,
+        "end": 92,
+        "followed_by": "Premise",
+        "length": 5,
+        "span": "since",
+        "id": "essay252_3"
+    },
+    {
+        "start": 150,
+        "end": 162,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay252_3"
+    },
+    {
+        "start": 492,
+        "end": 502,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In this way",
+        "id": "essay252_3"
+    },
+    {
+        "start": 82,
+        "end": 83,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "nd",
+        "id": "essay252_4"
+    },
+    {
+        "start": 434,
+        "end": 499,
+        "followed_by": "MajorClaim",
+        "length": 66,
+        "span": "But as far as I am concerned, I agree with the idea, which is that",
+        "id": "essay255_0"
+    },
+    {
+        "start": 0,
+        "end": 18,
+        "followed_by": "Premise",
+        "length": 19,
+        "span": "First of all, since",
+        "id": "essay255_1"
+    },
+    {
+        "start": 110,
+        "end": 120,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay255_1"
+    },
+    {
+        "start": 230,
+        "end": 231,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "So",
+        "id": "essay255_1"
+    },
+    {
+        "start": 75,
+        "end": 76,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "So",
+        "id": "essay255_2"
+    },
+    {
+        "start": 194,
+        "end": 204,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay255_2"
+    },
+    {
+        "start": 177,
+        "end": 224,
+        "followed_by": "Claim",
+        "length": 48,
+        "span": "People who hold different opinion may argue that",
+        "id": "essay255_3"
+    },
+    {
+        "start": 258,
+        "end": 263,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay255_3"
+    },
+    {
+        "start": 313,
+        "end": 321,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Of course",
+        "id": "essay255_3"
+    },
+    {
+        "start": 415,
+        "end": 421,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay255_3"
+    },
+    {
+        "start": 694,
+        "end": 704,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In this way",
+        "id": "essay255_3"
+    },
+    {
+        "start": 0,
+        "end": 237,
+        "followed_by": "MajorClaim",
+        "length": 238,
+        "span": "In conclusion, given the reasons described above, when the advantages and disadvantages of whether there will be fewer cars in use in twenty years or not are carefully compared, the best choice is obviously stand on my side, which is that",
+        "id": "essay255_4"
+    },
+    {
+        "start": 377,
+        "end": 405,
+        "followed_by": "MajorClaim",
+        "length": 29,
+        "span": "In my opinion, I believe that",
+        "id": "essay259_0"
+    },
+    {
+        "start": 406,
+        "end": 424,
+        "followed_by": "Premise",
+        "length": 19,
+        "span": "For another example",
+        "id": "essay259_1"
+    },
+    {
+        "start": 97,
+        "end": 107,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay259_2"
+    },
+    {
+        "start": 259,
+        "end": 269,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay259_2"
+    },
+    {
+        "start": 380,
+        "end": 387,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay259_2"
+    },
+    {
+        "start": 200,
+        "end": 213,
+        "followed_by": "MajorClaim",
+        "length": 14,
+        "span": "I believe that",
+        "id": "essay265_0"
+    },
+    {
+        "start": 310,
+        "end": 320,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay265_1"
+    },
+    {
+        "start": 490,
+        "end": 503,
+        "followed_by": "Claim",
+        "length": 14,
+        "span": "As you can see",
+        "id": "essay265_1"
+    },
+    {
+        "start": 149,
+        "end": 160,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "nd therefore",
+        "id": "essay265_2"
+    },
+    {
+        "start": 247,
+        "end": 257,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay265_2"
+    },
+    {
+        "start": 361,
+        "end": 372,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "nd therefore",
+        "id": "essay265_2"
+    },
+    {
+        "start": 427,
+        "end": 428,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "Or",
+        "id": "essay265_2"
+    },
+    {
+        "start": 613,
+        "end": 614,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "So",
+        "id": "essay265_2"
+    },
+    {
+        "start": 0,
+        "end": 169,
+        "followed_by": "MajorClaim",
+        "length": 170,
+        "span": "In sum, though some people may disagree with me, as I explained my reasons and examples above, none of those factors are important and sufficient enough by themselves and",
+        "id": "essay265_3"
+    },
+    {
+        "start": 205,
+        "end": 210,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay265_3"
+    },
+    {
+        "start": 465,
+        "end": 477,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay266_0"
+    },
+    {
+        "start": 183,
+        "end": 197,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "It is sure that",
+        "id": "essay266_1"
+    },
+    {
+        "start": 325,
+        "end": 331,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay266_1"
+    },
+    {
+        "start": 172,
+        "end": 185,
+        "followed_by": "Claim",
+        "length": 14,
+        "span": "In other words",
+        "id": "essay266_2"
+    },
+    {
+        "start": 519,
+        "end": 532,
+        "followed_by": "Premise",
+        "length": 14,
+        "span": "In these cases",
+        "id": "essay266_2"
+    },
+    {
+        "start": 184,
+        "end": 190,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "Besides",
+        "id": "essay266_3"
+    },
+    {
+        "start": 207,
+        "end": 334,
+        "followed_by": "MajorClaim",
+        "length": 128,
+        "span": "Although multitudes of people think that knowledge of ideas and concepts is more vital for students, I am in the conviction that",
+        "id": "essay277_0"
+    },
+    {
+        "start": 0,
+        "end": 4,
+        "followed_by": "Premise",
+        "length": 5,
+        "span": "First",
+        "id": "essay277_1"
+    },
+    {
+        "start": 132,
+        "end": 149,
+        "followed_by": "Premise",
+        "length": 18,
+        "span": "As a case in point",
+        "id": "essay277_1"
+    },
+    {
+        "start": 266,
+        "end": 276,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "As a result",
+        "id": "essay277_1"
+    },
+    {
+        "start": 255,
+        "end": 258,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay277_2"
+    },
+    {
+        "start": 0,
+        "end": 7,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay277_3"
+    },
+    {
+        "start": 94,
+        "end": 112,
+        "followed_by": "Claim",
+        "length": 19,
+        "span": "As a matter of fact",
+        "id": "essay277_3"
+    },
+    {
+        "start": 216,
+        "end": 230,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "In my viewpoint",
+        "id": "essay277_3"
+    },
+    {
+        "start": 0,
+        "end": 34,
+        "followed_by": "MajorClaim",
+        "length": 35,
+        "span": "All in all, I am in the belief that",
+        "id": "essay277_4"
+    },
+    {
+        "start": 249,
+        "end": 385,
+        "followed_by": "MajorClaim",
+        "length": 137,
+        "span": "Although multitudes of people think that sports and social activities are not as necessary as academic subjects in colleges, I think that",
+        "id": "essay278_0"
+    },
+    {
+        "start": 93,
+        "end": 107,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "In my viewpoint",
+        "id": "essay278_1"
+    },
+    {
+        "start": 176,
+        "end": 193,
+        "followed_by": "Premise",
+        "length": 18,
+        "span": "As a case in point",
+        "id": "essay278_1"
+    },
+    {
+        "start": 332,
+        "end": 340,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay278_1"
+    },
+    {
+        "start": 408,
+        "end": 418,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "As a result",
+        "id": "essay278_1"
+    },
+    {
+        "start": 114,
+        "end": 135,
+        "followed_by": "Premise",
+        "length": 22,
+        "span": "As a practical epitome",
+        "id": "essay278_2"
+    },
+    {
+        "start": 212,
+        "end": 215,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay278_2"
+    },
+    {
+        "start": 309,
+        "end": 321,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay278_2"
+    },
+    {
+        "start": 461,
+        "end": 462,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "So",
+        "id": "essay278_2"
+    },
+    {
+        "start": 314,
+        "end": 330,
+        "followed_by": "Premise",
+        "length": 17,
+        "span": "In my perspective",
+        "id": "essay278_3"
+    },
+    {
+        "start": 0,
+        "end": 38,
+        "followed_by": "MajorClaim",
+        "length": 39,
+        "span": "All in all, I am in the conviction that",
+        "id": "essay278_4"
+    },
+    {
+        "start": 0,
+        "end": 12,
+        "followed_by": "Claim",
+        "length": 13,
+        "span": "To begin with",
+        "id": "essay287_1"
+    },
+    {
+        "start": 119,
+        "end": 129,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay287_1"
+    },
+    {
+        "start": 109,
+        "end": 120,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay287_2"
+    },
+    {
+        "start": 323,
+        "end": 326,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay287_2"
+    },
+    {
+        "start": 0,
+        "end": 39,
+        "followed_by": "MajorClaim",
+        "length": 40,
+        "span": "In conclusion, I personally believe that",
+        "id": "essay287_3"
+    },
+    {
+        "start": 130,
+        "end": 135,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay287_3"
+    },
+    {
+        "start": 196,
+        "end": 202,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "Besides",
+        "id": "essay287_3"
+    },
+    {
+        "start": 382,
+        "end": 421,
+        "followed_by": "MajorClaim",
+        "length": 40,
+        "span": "Therefore, I agree with this notion that",
+        "id": "essay289_0"
+    },
+    {
+        "start": 89,
+        "end": 99,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay289_1"
+    },
+    {
+        "start": 345,
+        "end": 356,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "Consequently",
+        "id": "essay289_1"
+    },
+    {
+        "start": 489,
+        "end": 497,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay289_1"
+    },
+    {
+        "start": 114,
+        "end": 125,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "Consequently",
+        "id": "essay289_2"
+    },
+    {
+        "start": 220,
+        "end": 231,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay289_2"
+    },
+    {
+        "start": 312,
+        "end": 317,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay289_2"
+    },
+    {
+        "start": 417,
+        "end": 422,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay289_2"
+    },
+    {
+        "start": 167,
+        "end": 173,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Because",
+        "id": "essay289_3"
+    },
+    {
+        "start": 329,
+        "end": 339,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "As a result",
+        "id": "essay289_3"
+    },
+    {
+        "start": 0,
+        "end": 46,
+        "followed_by": "MajorClaim",
+        "length": 47,
+        "span": "In conclusion, I agree with this statement that",
+        "id": "essay289_4"
+    },
+    {
+        "start": 103,
+        "end": 108,
+        "followed_by": "Claim",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay289_4"
+    },
+    {
+        "start": 152,
+        "end": 159,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay289_4"
+    },
+    {
+        "start": 202,
+        "end": 207,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay289_4"
+    },
+    {
+        "start": 246,
+        "end": 256,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "Furthermore",
+        "id": "essay289_4"
+    },
+    {
+        "start": 307,
+        "end": 326,
+        "followed_by": "MajorClaim",
+        "length": 20,
+        "span": "Thus, I believe that",
+        "id": "essay289_4"
+    },
+    {
+        "start": 446,
+        "end": 481,
+        "followed_by": "MajorClaim",
+        "length": 36,
+        "span": "From this experience, I believe that",
+        "id": "essay301_0"
+    },
+    {
+        "start": 63,
+        "end": 73,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay301_1"
+    },
+    {
+        "start": 164,
+        "end": 170,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay301_2"
+    },
+    {
+        "start": 247,
+        "end": 252,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay301_2"
+    },
+    {
+        "start": 0,
+        "end": 21,
+        "followed_by": "Premise",
+        "length": 22,
+        "span": "Thirdly, at some point",
+        "id": "essay301_3"
+    },
+    {
+        "start": 123,
+        "end": 136,
+        "followed_by": "Claim",
+        "length": 14,
+        "span": "I believe that",
+        "id": "essay301_3"
+    },
+    {
+        "start": 329,
+        "end": 334,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay301_3"
+    },
+    {
+        "start": 0,
+        "end": 30,
+        "followed_by": "MajorClaim",
+        "length": 31,
+        "span": "For these reasons, I agree that",
+        "id": "essay301_4"
+    },
+    {
+        "start": 56,
+        "end": 57,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "as",
+        "id": "essay301_4"
+    },
+    {
+        "start": 283,
+        "end": 301,
+        "followed_by": "Claim",
+        "length": 19,
+        "span": "Although I conceded",
+        "id": "essay306_0"
+    },
+    {
+        "start": 232,
+        "end": 244,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "Alternatively",
+        "id": "essay306_1"
+    },
+    {
+        "start": 301,
+        "end": 313,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "it is because",
+        "id": "essay306_2"
+    },
+    {
+        "start": 0,
+        "end": 25,
+        "followed_by": "Claim",
+        "length": 26,
+        "span": "Admittedly, to some extent",
+        "id": "essay306_3"
+    },
+    {
+        "start": 80,
+        "end": 90,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay306_3"
+    },
+    {
+        "start": 264,
+        "end": 275,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay306_3"
+    },
+    {
+        "start": 396,
+        "end": 406,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay306_3"
+    },
+    {
+        "start": 542,
+        "end": 553,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "Consequently",
+        "id": "essay306_3"
+    },
+    {
+        "start": 0,
+        "end": 83,
+        "followed_by": "Claim",
+        "length": 84,
+        "span": "Based on the factors I have mentioned above, a conclusion can be drawn that although",
+        "id": "essay306_4"
+    },
+    {
+        "start": 0,
+        "end": 15,
+        "followed_by": "Claim",
+        "length": 16,
+        "span": "Most importantly",
+        "id": "essay310_2"
+    },
+    {
+        "start": 72,
+        "end": 77,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay310_2"
+    },
+    {
+        "start": 231,
+        "end": 250,
+        "followed_by": "Premise",
+        "length": 20,
+        "span": "For example, because",
+        "id": "essay310_2"
+    },
+    {
+        "start": 0,
+        "end": 17,
+        "followed_by": "Claim",
+        "length": 18,
+        "span": "Last but not least",
+        "id": "essay310_3"
+    },
+    {
+        "start": 0,
+        "end": 58,
+        "followed_by": "MajorClaim",
+        "length": 59,
+        "span": "To sum up, I completely approve of the statement which says",
+        "id": "essay310_4"
+    },
+    {
+        "start": 288,
+        "end": 291,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Then",
+        "id": "essay316_1"
+    },
+    {
+        "start": 496,
+        "end": 502,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Because",
+        "id": "essay316_1"
+    },
+    {
+        "start": 617,
+        "end": 619,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "And",
+        "id": "essay316_1"
+    },
+    {
+        "start": 687,
+        "end": 693,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "because",
+        "id": "essay316_1"
+    },
+    {
+        "start": 0,
+        "end": 34,
+        "followed_by": "Claim",
+        "length": 35,
+        "span": "Otherwise, another vital reason why",
+        "id": "essay316_2"
+    },
+    {
+        "start": 101,
+        "end": 120,
+        "followed_by": "Premise",
+        "length": 20,
+        "span": "ies in the fact that",
+        "id": "essay316_2"
+    },
+    {
+        "start": 369,
+        "end": 380,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "Except these",
+        "id": "essay316_2"
+    },
+    {
+        "start": 441,
+        "end": 444,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay316_2"
+    },
+    {
+        "start": 0,
+        "end": 40,
+        "followed_by": "MajorClaim",
+        "length": 41,
+        "span": "Generally, personally speaking, I believe",
+        "id": "essay316_3"
+    },
+    {
+        "start": 0,
+        "end": 90,
+        "followed_by": "MajorClaim",
+        "length": 91,
+        "span": "Replacing old buildings is important for any city but it should not affect historic houses\n",
+        "id": "essay322_0"
+    },
+    {
+        "start": 280,
+        "end": 290,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay322_0"
+    },
+    {
+        "start": 491,
+        "end": 507,
+        "followed_by": "Premise",
+        "length": 17,
+        "span": "In the other hand",
+        "id": "essay322_1"
+    },
+    {
+        "start": 192,
+        "end": 200,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay322_2"
+    },
+    {
+        "start": 0,
+        "end": 25,
+        "followed_by": "MajorClaim",
+        "length": 26,
+        "span": "These are reasons that why",
+        "id": "essay322_3"
+    },
+    {
+        "start": 142,
+        "end": 149,
+        "followed_by": "Claim",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay322_3"
+    },
+    {
+        "start": 328,
+        "end": 340,
+        "followed_by": "MajorClaim",
+        "length": 13,
+        "span": "In my opinion",
+        "id": "essay328_0"
+    },
+    {
+        "start": 381,
+        "end": 396,
+        "followed_by": "Claim",
+        "length": 16,
+        "span": "n the sense that",
+        "id": "essay328_0"
+    },
+    {
+        "start": 204,
+        "end": 214,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay328_1"
+    },
+    {
+        "start": 407,
+        "end": 416,
+        "followed_by": "Premise",
+        "length": 10,
+        "span": "Admittedly",
+        "id": "essay328_1"
+    },
+    {
+        "start": 510,
+        "end": 547,
+        "followed_by": "Premise",
+        "length": 38,
+        "span": "By contrast, some experts believe that",
+        "id": "essay328_1"
+    },
+    {
+        "start": 631,
+        "end": 643,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "By doing this",
+        "id": "essay328_1"
+    },
+    {
+        "start": 727,
+        "end": 738,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "nd as result",
+        "id": "essay328_1"
+    },
+    {
+        "start": 210,
+        "end": 218,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "therefore",
+        "id": "essay328_2"
+    },
+    {
+        "start": 250,
+        "end": 255,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "Indeed",
+        "id": "essay328_2"
+    },
+    {
+        "start": 322,
+        "end": 332,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "As a result",
+        "id": "essay328_2"
+    },
+    {
+        "start": 0,
+        "end": 8,
+        "followed_by": "MajorClaim",
+        "length": 9,
+        "span": "In a word",
+        "id": "essay328_3"
+    },
+    {
+        "start": 165,
+        "end": 175,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay328_3"
+    },
+    {
+        "start": 483,
+        "end": 506,
+        "followed_by": "MajorClaim",
+        "length": 24,
+        "span": "As far as I am concerned",
+        "id": "essay331_0"
+    },
+    {
+        "start": 42,
+        "end": 48,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "because",
+        "id": "essay331_1"
+    },
+    {
+        "start": 322,
+        "end": 332,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay331_1"
+    },
+    {
+        "start": 459,
+        "end": 465,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "because",
+        "id": "essay331_1"
+    },
+    {
+        "start": 264,
+        "end": 270,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay331_2"
+    },
+    {
+        "start": 0,
+        "end": 8,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Meanwhile",
+        "id": "essay331_3"
+    },
+    {
+        "start": 0,
+        "end": 22,
+        "followed_by": "Claim",
+        "length": 23,
+        "span": "Overall, I believe that",
+        "id": "essay331_4"
+    },
+    {
+        "start": 99,
+        "end": 105,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "However",
+        "id": "essay331_4"
+    },
+    {
+        "start": 343,
+        "end": 351,
+        "followed_by": "MajorClaim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay331_4"
+    },
+    {
+        "start": 54,
+        "end": 64,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay335_1"
+    },
+    {
+        "start": 0,
+        "end": 6,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "Besides",
+        "id": "essay335_2"
+    },
+    {
+        "start": 72,
+        "end": 73,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "nd",
+        "id": "essay335_2"
+    },
+    {
+        "start": 220,
+        "end": 230,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay335_2"
+    },
+    {
+        "start": 0,
+        "end": 26,
+        "followed_by": "MajorClaim",
+        "length": 27,
+        "span": "In conclusion, I agree that",
+        "id": "essay335_4"
+    },
+    {
+        "start": 312,
+        "end": 335,
+        "followed_by": "MajorClaim",
+        "length": 24,
+        "span": "As far as I am concerned",
+        "id": "essay341_0"
+    },
+    {
+        "start": 144,
+        "end": 151,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Although",
+        "id": "essay341_1"
+    },
+    {
+        "start": 274,
+        "end": 280,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Instead",
+        "id": "essay341_1"
+    },
+    {
+        "start": 400,
+        "end": 430,
+        "followed_by": "Premise",
+        "length": 31,
+        "span": "Meanwhile, due to the fact that",
+        "id": "essay341_1"
+    },
+    {
+        "start": 583,
+        "end": 593,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "Furthermore",
+        "id": "essay341_1"
+    },
+    {
+        "start": 0,
+        "end": 58,
+        "followed_by": "Claim",
+        "length": 59,
+        "span": "Some people who hold different viewpoints may advocate that",
+        "id": "essay341_2"
+    },
+    {
+        "start": 153,
+        "end": 172,
+        "followed_by": "Premise",
+        "length": 20,
+        "span": "In spite of the fact",
+        "id": "essay341_2"
+    },
+    {
+        "start": 246,
+        "end": 273,
+        "followed_by": "Premise",
+        "length": 28,
+        "span": "it should be emphasized that",
+        "id": "essay341_2"
+    },
+    {
+        "start": 347,
+        "end": 355,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay341_2"
+    },
+    {
+        "start": 0,
+        "end": 12,
+        "followed_by": "Claim",
+        "length": 13,
+        "span": "To start with",
+        "id": "essay348_1"
+    },
+    {
+        "start": 81,
+        "end": 82,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "as",
+        "id": "essay348_1"
+    },
+    {
+        "start": 185,
+        "end": 195,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay348_1"
+    },
+    {
+        "start": 294,
+        "end": 300,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "so that",
+        "id": "essay348_1"
+    },
+    {
+        "start": 482,
+        "end": 489,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Although",
+        "id": "essay348_1"
+    },
+    {
+        "start": 0,
+        "end": 26,
+        "followed_by": "Claim",
+        "length": 27,
+        "span": "However, I would argue that",
+        "id": "essay348_2"
+    },
+    {
+        "start": 108,
+        "end": 117,
+        "followed_by": "Premise",
+        "length": 10,
+        "span": "As we know",
+        "id": "essay348_2"
+    },
+    {
+        "start": 218,
+        "end": 232,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "It is true that",
+        "id": "essay348_2"
+    },
+    {
+        "start": 299,
+        "end": 301,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "but",
+        "id": "essay348_2"
+    },
+    {
+        "start": 351,
+        "end": 362,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "In such case",
+        "id": "essay348_2"
+    },
+    {
+        "start": 702,
+        "end": 703,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "So",
+        "id": "essay348_2"
+    },
+    {
+        "start": 88,
+        "end": 102,
+        "followed_by": "MajorClaim",
+        "length": 15,
+        "span": "Other than that",
+        "id": "essay348_3"
+    },
+    {
+        "start": 306,
+        "end": 341,
+        "followed_by": "Claim",
+        "length": 36,
+        "span": "This will be proven by analyzing how",
+        "id": "essay352_0"
+    },
+    {
+        "start": 131,
+        "end": 132,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "nd",
+        "id": "essay352_1"
+    },
+    {
+        "start": 264,
+        "end": 276,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "As an example",
+        "id": "essay352_1"
+    },
+    {
+        "start": 522,
+        "end": 532,
+        "followed_by": "Claim",
+        "length": 11,
+        "span": "That is how",
+        "id": "essay352_1"
+    },
+    {
+        "start": 0,
+        "end": 7,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Nowadays",
+        "id": "essay352_2"
+    },
+    {
+        "start": 331,
+        "end": 342,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay352_2"
+    },
+    {
+        "start": 494,
+        "end": 502,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "From this",
+        "id": "essay352_2"
+    },
+    {
+        "start": 0,
+        "end": 162,
+        "followed_by": "MajorClaim",
+        "length": 163,
+        "span": "Following the demonstration of a computer's contribution in children's study and building skills which are to be used in their career afterwards, it is agreed that",
+        "id": "essay352_3"
+    },
+    {
+        "start": 430,
+        "end": 454,
+        "followed_by": "MajorClaim",
+        "length": 25,
+        "span": "I personally believe that",
+        "id": "essay355_0"
+    },
+    {
+        "start": 250,
+        "end": 257,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay355_1"
+    },
+    {
+        "start": 372,
+        "end": 414,
+        "followed_by": "Premise",
+        "length": 43,
+        "span": "Another important thing to consider is that",
+        "id": "essay355_1"
+    },
+    {
+        "start": 0,
+        "end": 34,
+        "followed_by": "Premise",
+        "length": 35,
+        "span": "Nevertheless, it is undeniable that",
+        "id": "essay355_2"
+    },
+    {
+        "start": 179,
+        "end": 185,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "however",
+        "id": "essay355_2"
+    },
+    {
+        "start": 245,
+        "end": 255,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In this way",
+        "id": "essay355_2"
+    },
+    {
+        "start": 307,
+        "end": 317,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "In addition",
+        "id": "essay355_2"
+    },
+    {
+        "start": 502,
+        "end": 527,
+        "followed_by": "Claim",
+        "length": 26,
+        "span": "It is certainly clear that",
+        "id": "essay355_2"
+    },
+    {
+        "start": 148,
+        "end": 174,
+        "followed_by": "MajorClaim",
+        "length": 27,
+        "span": "I am totally convinced that",
+        "id": "essay355_3"
+    },
+    {
+        "start": 0,
+        "end": 95,
+        "followed_by": "MajorClaim",
+        "length": 96,
+        "span": "International tourism leads to both - tension and understanding\n\nI agree with both opinions that",
+        "id": "essay359_0"
+    },
+    {
+        "start": 214,
+        "end": 220,
+        "followed_by": "Claim",
+        "length": 7,
+        "span": "because",
+        "id": "essay359_0"
+    },
+    {
+        "start": 0,
+        "end": 21,
+        "followed_by": "Claim",
+        "length": 22,
+        "span": "There is no doubt that",
+        "id": "essay359_1"
+    },
+    {
+        "start": 89,
+        "end": 95,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Firstly",
+        "id": "essay359_1"
+    },
+    {
+        "start": 160,
+        "end": 168,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay359_1"
+    },
+    {
+        "start": 229,
+        "end": 234,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "o that",
+        "id": "essay359_1"
+    },
+    {
+        "start": 301,
+        "end": 308,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay359_1"
+    },
+    {
+        "start": 391,
+        "end": 401,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay359_1"
+    },
+    {
+        "start": 428,
+        "end": 431,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "ince",
+        "id": "essay359_1"
+    },
+    {
+        "start": 452,
+        "end": 455,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay359_1"
+    },
+    {
+        "start": 152,
+        "end": 163,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay359_2"
+    },
+    {
+        "start": 267,
+        "end": 277,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "Furthermore",
+        "id": "essay359_2"
+    },
+    {
+        "start": 372,
+        "end": 375,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay359_2"
+    },
+    {
+        "start": 0,
+        "end": 8,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "Obviously",
+        "id": "essay359_3"
+    },
+    {
+        "start": 148,
+        "end": 161,
+        "followed_by": "MajorClaim",
+        "length": 14,
+        "span": "Hence, I think",
+        "id": "essay359_3"
+    },
+    {
+        "start": 238,
+        "end": 239,
+        "followed_by": "Premise",
+        "length": 2,
+        "span": "so",
+        "id": "essay364_1"
+    },
+    {
+        "start": 274,
+        "end": 284,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay364_1"
+    },
+    {
+        "start": 171,
+        "end": 182,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "In paticular",
+        "id": "essay364_2"
+    },
+    {
+        "start": 228,
+        "end": 237,
+        "followed_by": "Premise",
+        "length": 10,
+        "span": "Futhermore",
+        "id": "essay364_2"
+    },
+    {
+        "start": 311,
+        "end": 322,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay364_2"
+    },
+    {
+        "start": 213,
+        "end": 222,
+        "followed_by": "Premise",
+        "length": 10,
+        "span": "After that",
+        "id": "essay364_3"
+    },
+    {
+        "start": 53,
+        "end": 55,
+        "followed_by": "MajorClaim",
+        "length": 3,
+        "span": "but",
+        "id": "essay364_4"
+    },
+    {
+        "start": 587,
+        "end": 605,
+        "followed_by": "MajorClaim",
+        "length": 19,
+        "span": "Personally, I think",
+        "id": "essay373_0"
+    },
+    {
+        "start": 0,
+        "end": 6,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Firstly",
+        "id": "essay373_1"
+    },
+    {
+        "start": 225,
+        "end": 238,
+        "followed_by": "Premise",
+        "length": 14,
+        "span": "As a fact that",
+        "id": "essay373_1"
+    },
+    {
+        "start": 278,
+        "end": 281,
+        "followed_by": "Premise",
+        "length": 4,
+        "span": "also",
+        "id": "essay373_1"
+    },
+    {
+        "start": 346,
+        "end": 350,
+        "followed_by": "Claim",
+        "length": 5,
+        "span": "Hence",
+        "id": "essay373_1"
+    },
+    {
+        "start": 59,
+        "end": 79,
+        "followed_by": "Premise",
+        "length": 21,
+        "span": "It is undeniable that",
+        "id": "essay373_2"
+    },
+    {
+        "start": 275,
+        "end": 282,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay373_2"
+    },
+    {
+        "start": 385,
+        "end": 392,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "In short",
+        "id": "essay373_2"
+    },
+    {
+        "start": 317,
+        "end": 329,
+        "followed_by": "Premise",
+        "length": 13,
+        "span": "As we can see",
+        "id": "essay373_3"
+    },
+    {
+        "start": 508,
+        "end": 515,
+        "followed_by": "Premise",
+        "length": 8,
+        "span": "Moreover",
+        "id": "essay373_3"
+    },
+    {
+        "start": 0,
+        "end": 10,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "To conclude",
+        "id": "essay373_4"
+    },
+    {
+        "start": 145,
+        "end": 148,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "thus",
+        "id": "essay373_4"
+    },
+    {
+        "start": 255,
+        "end": 271,
+        "followed_by": "MajorClaim",
+        "length": 17,
+        "span": "From my viewpoint",
+        "id": "essay382_0"
+    },
+    {
+        "start": 0,
+        "end": 19,
+        "followed_by": "Claim",
+        "length": 20,
+        "span": "To start with, since",
+        "id": "essay382_1"
+    },
+    {
+        "start": 276,
+        "end": 284,
+        "followed_by": "Premise",
+        "length": 9,
+        "span": "Therefore",
+        "id": "essay382_2"
+    },
+    {
+        "start": 0,
+        "end": 9,
+        "followed_by": "MajorClaim",
+        "length": 10,
+        "span": "On balance",
+        "id": "essay382_3"
+    },
+    {
+        "start": 69,
+        "end": 70,
+        "followed_by": "Claim",
+        "length": 2,
+        "span": "as",
+        "id": "essay382_3"
+    },
+    {
+        "start": 300,
+        "end": 321,
+        "followed_by": "MajorClaim",
+        "length": 22,
+        "span": "However, in my opinion",
+        "id": "essay386_0"
+    },
+    {
+        "start": 0,
+        "end": 8,
+        "followed_by": "Claim",
+        "length": 9,
+        "span": "To add up",
+        "id": "essay386_2"
+    },
+    {
+        "start": 98,
+        "end": 124,
+        "followed_by": "Premise",
+        "length": 27,
+        "span": "It is a matter of fact that",
+        "id": "essay386_2"
+    },
+    {
+        "start": 0,
+        "end": 24,
+        "followed_by": "MajorClaim",
+        "length": 25,
+        "span": "All advantages considered",
+        "id": "essay386_3"
+    },
+    {
+        "start": 80,
+        "end": 80,
+        "followed_by": "Claim",
+        "length": 1,
+        "span": "s",
+        "id": "essay386_3"
+    },
+    {
+        "start": 227,
+        "end": 247,
+        "followed_by": "MajorClaim",
+        "length": 21,
+        "span": "Personally, I believe",
+        "id": "essay393_0"
+    },
+    {
+        "start": 0,
+        "end": 22,
+        "followed_by": "Premise",
+        "length": 23,
+        "span": "It is widely known that",
+        "id": "essay393_1"
+    },
+    {
+        "start": 291,
+        "end": 302,
+        "followed_by": "Claim",
+        "length": 12,
+        "span": "Consequently",
+        "id": "essay393_1"
+    },
+    {
+        "start": 0,
+        "end": 36,
+        "followed_by": "Premise",
+        "length": 37,
+        "span": "An even more detrimental fact is that",
+        "id": "essay393_2"
+    },
+    {
+        "start": 372,
+        "end": 375,
+        "followed_by": "Claim",
+        "length": 4,
+        "span": "Thus",
+        "id": "essay393_2"
+    },
+    {
+        "start": 102,
+        "end": 107,
+        "followed_by": "Premise",
+        "length": 6,
+        "span": "ecause",
+        "id": "essay393_3"
+    },
+    {
+        "start": 0,
+        "end": 43,
+        "followed_by": "MajorClaim",
+        "length": 44,
+        "span": "In conclusion, I strongly hold my point that",
+        "id": "essay393_4"
+    },
+    {
+        "start": 204,
+        "end": 252,
+        "followed_by": "Claim",
+        "length": 49,
+        "span": "Personally, I do not agree the viewpoint, because",
+        "id": "essay398_0"
+    },
+    {
+        "start": 223,
+        "end": 234,
+        "followed_by": "Premise",
+        "length": 12,
+        "span": "For instance",
+        "id": "essay398_1"
+    },
+    {
+        "start": 449,
+        "end": 455,
+        "followed_by": "Premise",
+        "length": 7,
+        "span": "Besides",
+        "id": "essay398_1"
+    },
+    {
+        "start": 579,
+        "end": 593,
+        "followed_by": "Premise",
+        "length": 15,
+        "span": "This means that",
+        "id": "essay398_1"
+    },
+    {
+        "start": 128,
+        "end": 130,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "and",
+        "id": "essay398_2"
+    },
+    {
+        "start": 210,
+        "end": 220,
+        "followed_by": "Premise",
+        "length": 11,
+        "span": "For example",
+        "id": "essay398_2"
+    },
+    {
+        "start": 308,
+        "end": 310,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "but",
+        "id": "essay398_2"
+    },
+    {
+        "start": 353,
+        "end": 355,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "and",
+        "id": "essay398_2"
+    },
+    {
+        "start": 126,
+        "end": 128,
+        "followed_by": "Premise",
+        "length": 3,
+        "span": "and",
+        "id": "essay398_3"
+    }
+]

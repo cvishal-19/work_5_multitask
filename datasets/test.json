@@ -1,0 +1,432 @@
+[
+    {
+        "id": "10653877",
+        "paragraph": " Treatment with cisplatin-based chemotherapy provides a modest survival advantage over supportive care alone in advanced non-small-cell lung cancer (NSCLC). To determine whether a new agent, paclitaxel, would further improve survival in NSCLC, the Eastern Cooperative Oncology Group conducted a randomized trial comparing paclitaxel plus cisplatin to a standard chemotherapy regimen consisting of cisplatin and etoposide. The study was carried out by a multi-institutional cooperative group in chemotherapy-naive stage IIIB to IV NSCLC patients randomized to receive paclitaxel plus cisplatin or etoposide plus cisplatin. Paclitaxel was administered at two different dose levels (135 mg/m(2) and 250 mg/m(2)), and etoposide was given at a dose of 100 mg/m(2) daily on days 1 to 3. Each regimen was repeated every 21 days and each included cisplatin (75 mg/m(2)). The characteristics of the 599 patients were well-balanced across the three treatment groups. Superior survival was observed with the combined paclitaxel regimens (median survival time, 9.9 months; 1-year survival rate, 38.9%) compared with etoposide plus cisplatin (median survival time, 7.6 months; 1-year survival rate, 31.8%; P =. 048). Comparing survival for the two dose levels of paclitaxel revealed no significant difference. The median survival duration for the stage IIIB subgroup was 7.9 months for etoposide plus cisplatin patients versus 13.1 months for all paclitaxel patients (P =.152). For the stage IV subgroup, the median survival time for etoposide plus cisplatin was 7.6 months compared with 8.9 months for paclitaxel (P =.246). With the exceptions of increased granulocytopenia on the low-dose paclitaxel regimen and increased myalgias, neurotoxicity, and, possibly, increased treatment-related cardiac events with high-dose paclitaxel, toxicity was similar across all three arms. Quality of life (QOL) declined significantly over the 6 months. However, QOL scores were not significantly different among the regimens. As a result of these observations, paclitaxel (135 mg/m(2)) combined with cisplatin has replaced etoposide plus cisplatin as the reference regimen in our recently completed phase III trial. ",
+        "components": [
+            {
+                "type": "Claim",
+                "start": 1,
+                "end": 156,
+                "span": "Treatment with cisplatin-based chemotherapy provides a modest survival advantage over supportive care alone in advanced non-small-cell lung cancer (NSCLC)."
+            },
+            {
+                "type": "Evidence",
+                "start": 957,
+                "end": 1203,
+                "span": "Superior survival was observed with the combined paclitaxel regimens (median survival time, 9.9 months; 1-year survival rate, 38.9%) compared with etoposide plus cisplatin (median survival time, 7.6 months; 1-year survival rate, 31.8%; P =. 048)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1204,
+                "end": 1296,
+                "span": "Comparing survival for the two dose levels of paclitaxel revealed no significant difference."
+            },
+            {
+                "type": "Evidence",
+                "start": 1297,
+                "end": 1464,
+                "span": "The median survival duration for the stage IIIB subgroup was 7.9 months for etoposide plus cisplatin patients versus 13.1 months for all paclitaxel patients (P =.152)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1465,
+                "end": 1611,
+                "span": "For the stage IV subgroup, the median survival time for etoposide plus cisplatin was 7.6 months compared with 8.9 months for paclitaxel (P =.246)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1612,
+                "end": 1864,
+                "span": "With the exceptions of increased granulocytopenia on the low-dose paclitaxel regimen and increased myalgias, neurotoxicity, and, possibly, increased treatment-related cardiac events with high-dose paclitaxel, toxicity was similar across all three arms."
+            },
+            {
+                "type": "Evidence",
+                "start": 1865,
+                "end": 1928,
+                "span": "Quality of life (QOL) declined significantly over the 6 months."
+            },
+            {
+                "type": "Claim",
+                "start": 1938,
+                "end": 2001,
+                "span": "QOL scores were not significantly different among the regimens."
+            },
+            {
+                "type": "Claim",
+                "start": 2037,
+                "end": 2191,
+                "span": "paclitaxel (135 mg/m(2)) combined with cisplatin has replaced etoposide plus cisplatin as the reference regimen in our recently completed phase III trial."
+            }
+        ],
+        "relations": [
+            {
+                "type": "Support",
+                "head": 1,
+                "tail": 8
+            },
+            {
+                "type": "Support",
+                "head": 3,
+                "tail": 8
+            },
+            {
+                "type": "Support",
+                "head": 4,
+                "tail": 8
+            },
+            {
+                "type": "Support",
+                "head": 5,
+                "tail": 8
+            },
+            {
+                "type": "Support",
+                "head": 7,
+                "tail": 8
+            }
+        ],
+        "entities": [
+            {
+                "type": "disease",
+                "entity": [
+                    "stage IV",
+                    "non-small-cell lung cancer",
+                    "stage IIIB"
+                ]
+            },
+            {
+                "type": "drug",
+                "entity": [
+                    "paclitaxel",
+                    "etoposide",
+                    "cisplatin"
+                ]
+            },
+            {
+                "type": "study",
+                "entity": [
+                    "Eastern Cooperative Oncology Group",
+                    "randomized trial"
+                ]
+            },
+            {
+                "type": "outcome",
+                "entity": [
+                    "survival advantage",
+                    "median survival time",
+                    "treatment-related cardiac events",
+                    "1-year survival rate",
+                    "neurotoxicity",
+                    "myalgias",
+                    "granulocytopenia",
+                    "quality of life",
+                    "superior survival",
+                    "modest survival advantage"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10675381",
+        "paragraph": " Extracellular adenosine 5'-triphosphate (ATP) is involved in the regulation of a variety of biologic processes, including neurotransmission, muscle contraction, and liver glucose metabolism, via purinergic receptors. In nonrandomized studies involving patients with different tumor types including non-small-cell lung cancer (NSCLC), ATP infusion appeared to inhibit loss of weight and deterioration of quality of life (QOL) and performance status. We conducted a randomized clinical trial to evaluate the effects of ATP in patients with advanced NSCLC (stage IIIB or IV). Fifty-eight patients were randomly assigned to receive either 10 intravenous 30-hour ATP infusions, with the infusions given at 2- to 4-week intervals, or no ATP. Outcome parameters were assessed every 4 weeks until 28 weeks. Between-group differences were tested for statistical significance by use of repeated-measures analysis, and reported P values are two-sided. Twenty-eight patients were allocated to receive ATP treatment and 30 received no ATP. Mean weight changes per 4-week period were -1.0 kg (95% confidence interval [CI] = -1.5 to -0.5) in the control group and 0.2 kg (95% CI = -0.2 to +0.6) in the ATP group (P =.002). Serum albumin concentration declined by -1.2 g/L (95% CI= -2.0 to -0.4) per 4 weeks in the control group but remained stable (0.0 g/L; 95% CI = -0.3 to +0.3) in the ATP group (P =.006). Elbow flexor muscle strength declined by -5.5% (95% CI = -9.6% to -1. 4%) per 4 weeks in the control group but remained stable (0.0%; 95% CI= -1.4% to +1.4%) in the ATP group (P =.01). A similar pattern was observed for knee extensor muscles (P =.02). The effects of ATP on body weight, muscle strength, and albumin concentration were especially marked in cachectic patients (P =.0002, P =.0001, and P =. 0001, respectively, for ATP versus no ATP). QOL score changes per 4-week period in the ATP group showed overall less deterioration than in the control group-physical scores (-0.2% versus -2.4%; P =. 0002); functional scores (+0.4% versus -5.5%; P =.02); psychologic scores (-0.7% versus -2.4%; P =.11); overall QOL score (+0.1% versus -3.5%; P =.0001). This randomized trial demonstrates that ATP has beneficial effects on weight, muscle strength, and QOL in patients with advanced NSCLC. ",
+        "components": [
+            {
+                "type": "MajorClaim",
+                "start": 218,
+                "end": 449,
+                "span": "In nonrandomized studies involving patients with different tumor types including non-small-cell lung cancer (NSCLC), ATP infusion appeared to inhibit loss of weight and deterioration of quality of life (QOL) and performance status."
+            },
+            {
+                "type": "Evidence",
+                "start": 1028,
+                "end": 1208,
+                "span": "Mean weight changes per 4-week period were -1.0 kg (95% confidence interval [CI] = -1.5 to -0.5) in the control group and 0.2 kg (95% CI = -0.2 to +0.6) in the ATP group (P =.002)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1209,
+                "end": 1394,
+                "span": "Serum albumin concentration declined by -1.2 g/L (95% CI= -2.0 to -0.4) per 4 weeks in the control group but remained stable (0.0 g/L; 95% CI = -0.3 to +0.3) in the ATP group (P =.006)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1395,
+                "end": 1579,
+                "span": "Elbow flexor muscle strength declined by -5.5% (95% CI = -9.6% to -1. 4%) per 4 weeks in the control group but remained stable (0.0%; 95% CI= -1.4% to +1.4%) in the ATP group (P =.01)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1580,
+                "end": 1646,
+                "span": "A similar pattern was observed for knee extensor muscles (P =.02)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1647,
+                "end": 1843,
+                "span": "The effects of ATP on body weight, muscle strength, and albumin concentration were especially marked in cachectic patients (P =.0002, P =.0001, and P =. 0001, respectively, for ATP versus no ATP)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1844,
+                "end": 2152,
+                "span": "QOL score changes per 4-week period in the ATP group showed overall less deterioration than in the control group-physical scores (-0.2% versus -2.4%; P =. 0002); functional scores (+0.4% versus -5.5%; P =.02); psychologic scores (-0.7% versus -2.4%; P =.11); overall QOL score (+0.1% versus -3.5%; P =.0001)."
+            },
+            {
+                "type": "Claim",
+                "start": 2193,
+                "end": 2288,
+                "span": "ATP has beneficial effects on weight, muscle strength, and QOL in patients with advanced NSCLC."
+            }
+        ],
+        "relations": [
+            {
+                "type": "Support",
+                "head": 1,
+                "tail": 7
+            },
+            {
+                "type": "Support",
+                "head": 3,
+                "tail": 7
+            },
+            {
+                "type": "Support",
+                "head": 4,
+                "tail": 7
+            },
+            {
+                "type": "Support",
+                "head": 5,
+                "tail": 7
+            },
+            {
+                "type": "Support",
+                "head": 6,
+                "tail": 7
+            }
+        ],
+        "entities": [
+            {
+                "type": "disease",
+                "entity": [
+                    "non-small-cell lung cancer",
+                    "cachexia"
+                ]
+            },
+            {
+                "type": "drug",
+                "entity": [
+                    "ATP",
+                    "adenosine 5'-triphosphate"
+                ]
+            },
+            {
+                "type": "study",
+                "entity": [
+                    "clinical trial"
+                ]
+            },
+            {
+                "type": "outcome",
+                "entity": [
+                    "weight change",
+                    "elbow flexor muscle strength",
+                    "quality of life score",
+                    "knee extensor muscles",
+                    "serum albumin concentration"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10735887",
+        "paragraph": " This phase III, double-blind, randomized, multicenter study evaluated the efficacy, pharmacodynamics, and safety of the oral aromatase inactivator exemestane (EXE) versus megestrol acetate (MA) in postmenopausal women with progressive advanced breast cancer who experienced failure of tamoxifen. A total of 769 patients were randomized to EXE 25 mg/d (n = 366) or MA (n = 403) 40 mg four times daily. Tumor response, duration of tumor control, tumor-related signs and symptoms (TRSS), quality of life (QOL), survival, and tolerability were evaluated. Overall objective response (OR) rates were higher in patients treated with EXE than in those treated with MA (15.0% v 12.4%); a similar trend was noted in patients with visceral metastases (13.5% v 10.5%). Median survival time was significantly longer with EXE (median not reached) than with MA (123.4 weeks; P =.039), as were the median duration of overall success (OR or stable disease > or = 24 weeks; 60.1 v 49.1 weeks; P =.025), time to tumor progression (20.3 v 16.6 weeks; P =.037), and time to treatment failure (16.3 v 15.7 weeks; P =.042). Compared with MA, there were similar or greater improvements in pain, TRSS, and QOL with EXE. Both drugs were well tolerated. Grade 3 or 4 weight changes were more common with MA (17.1% v 7.6%; P =.001). EXE prolongs survival time, time to tumor progression, and time to treatment failure compared with MA and offers a well-tolerated treatment option for postmenopausal women with progressive advanced breast cancer who experienced failure of tamoxifen. ",
+        "components": [
+            {
+                "type": "Evidence",
+                "start": 552,
+                "end": 677,
+                "span": "Overall objective response (OR) rates were higher in patients treated with EXE than in those treated with MA (15.0% v 12.4%);"
+            },
+            {
+                "type": "Evidence",
+                "start": 678,
+                "end": 757,
+                "span": "a similar trend was noted in patients with visceral metastases (13.5% v 10.5%)."
+            },
+            {
+                "type": "Evidence",
+                "start": 758,
+                "end": 1101,
+                "span": "Median survival time was significantly longer with EXE (median not reached) than with MA (123.4 weeks; P =.039), as were the median duration of overall success (OR or stable disease > or = 24 weeks; 60.1 v 49.1 weeks; P =.025), time to tumor progression (20.3 v 16.6 weeks; P =.037), and time to treatment failure (16.3 v 15.7 weeks; P =.042)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1102,
+                "end": 1195,
+                "span": "Compared with MA, there were similar or greater improvements in pain, TRSS, and QOL with EXE."
+            },
+            {
+                "type": "Claim",
+                "start": 1196,
+                "end": 1227,
+                "span": "Both drugs were well tolerated."
+            },
+            {
+                "type": "Evidence",
+                "start": 1228,
+                "end": 1305,
+                "span": "Grade 3 or 4 weight changes were more common with MA (17.1% v 7.6%; P =.001)."
+            },
+            {
+                "type": "Claim",
+                "start": 1306,
+                "end": 1555,
+                "span": "EXE prolongs survival time, time to tumor progression, and time to treatment failure compared with MA and offers a well-tolerated treatment option for postmenopausal women with progressive advanced breast cancer who experienced failure of tamoxifen."
+            }
+        ],
+        "relations": [
+            {
+                "type": "Support",
+                "head": 0,
+                "tail": 6
+            },
+            {
+                "type": "Support",
+                "head": 2,
+                "tail": 6
+            },
+            {
+                "type": "Support",
+                "head": 3,
+                "tail": 6
+            },
+            {
+                "type": "Support",
+                "head": 4,
+                "tail": 6
+            }
+        ],
+        "entities": [
+            {
+                "type": "disease",
+                "entity": [
+                    "breast cancer",
+                    "tamoxifen failure"
+                ]
+            },
+            {
+                "type": "drug",
+                "entity": [
+                    "exemestane",
+                    "megestrol acetate"
+                ]
+            },
+            {
+                "type": "study",
+                "entity": [
+                    "phase III",
+                    "randomized",
+                    "double-blind",
+                    "multicenter"
+                ]
+            },
+            {
+                "type": "outcome",
+                "entity": [
+                    "time to treatment failure",
+                    "weight change",
+                    "time to tumor progression",
+                    "tolerability",
+                    "survival",
+                    "pain",
+                    "quality of life",
+                    "tumor response",
+                    "duration of tumor control",
+                    "tumor-related signs and symptoms"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10856098",
+        "paragraph": " This phase III study was performed to determine the superiority of doxorubicin (DOX) and vinorelbine (VNB) (arm 1) versus DOX alone (arm 2) in metastatic breast cancer (MBC) for overall survival (OS), time to treatment failure (TTF), toxicity, and quality of life (QOL). Three hundred three patients were randomized to DOX 50 mg/m(2) intravenously (IV) on day 1 and VNB 25 mg/m(2) IV on days 1 and 8 (arm 1) or DOX 70 mg/m(2) IV on day 1 (arm 2). Both regimens were given every 3 weeks until a cumulative DOX dose of 450 mg/m(2). After 16 of the first 65 randomized patients experienced febrile neutropenia (FN), the doses were reduced to DOX 40 mg/m(2) on day 1 and VNB 20 mg/m(2) on days 1 and 8 versus DOX 60 mg/m(2) on day 1. Eligible patients were vinca alkaloid and anthracycline naive. Chemotherapy was first-line or second-line for MBC. Three patients were ineligible. Thus, 300 patients were assessable for toxicity and to determine time to disease progression (TTP), TTF, and OS. Two hundred eighty-nine patients were assessable for response, and 99 responders were assessable for response duration (RD). The response rates, QOL, and median RD, TTP, and TTF were not significantly different between the arms. Median OS was 13.8 months for arm 1 versus 14.4 months for arm 2 (P =.4). Grade 3 or 4 granulocytopenia was equivalent in both arms but more grade 3/4 neurotoxicity, mild venous toxicity, and FN were seen on arm 1. The survival with DOX and VNB is not superior to DOX alone in MBC. ",
+        "components": [
+            {
+                "type": "Evidence",
+                "start": 1116,
+                "end": 1219,
+                "span": "The response rates, QOL, and median RD, TTP, and TTF were not significantly different between the arms."
+            },
+            {
+                "type": "Evidence",
+                "start": 1220,
+                "end": 1293,
+                "span": "Median OS was 13.8 months for arm 1 versus 14.4 months for arm 2 (P =.4)."
+            },
+            {
+                "type": "Evidence",
+                "start": 1294,
+                "end": 1434,
+                "span": "Grade 3 or 4 granulocytopenia was equivalent in both arms but more grade 3/4 neurotoxicity, mild venous toxicity, and FN were seen on arm 1."
+            },
+            {
+                "type": "Claim",
+                "start": 1435,
+                "end": 1501,
+                "span": "The survival with DOX and VNB is not superior to DOX alone in MBC."
+            }
+        ],
+        "relations": [
+            {
+                "type": "Support",
+                "head": 0,
+                "tail": 3
+            },
+            {
+                "type": "Support",
+                "head": 1,
+                "tail": 3
+            }
+        ],
+        "entities": [
+            {
+                "type": "disease",
+                "entity": [
+                    "metastatic breast cancer",
+                    "febrile neutropenia"
+                ]
+            },
+            {
+                "type": "drug",
+                "entity": [
+                    "vinorelbine",
+                    "doxorubicin"
+                ]
+            },
+            {
+                "type": "study",
+                "entity": [
+                    "phase III study"
+                ]
+            },
+            {
+                "type": "outcome",
+                "entity": [
+                    "time to treatment failure",
+                    "overall survival",
+                    "neurotoxicity",
+                    "grade 3/4 granulocytopenia",
+                    "response rate",
+                    "median time to disease progression",
+                    "survival",
+                    "cumulative dose",
+                    "mild venous toxicity",
+                    "quality of life",
+                    "median response duration"
+                ]
+            }
+        ]
+    }
+]

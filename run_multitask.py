@@ -14,7 +14,7 @@ from peft import get_peft_model, LoraConfig, TaskType, prepare_model_for_kbit_tr
 
 # Step 1: Load configuration file
 config = configparser.ConfigParser()
-config.read('E:\\argument mine\\Work_5_multitask\\config.ini')
+config.read('config.ini')
 
 # Step 2: Set up argument parser with defaults from config
 parser = argparse.ArgumentParser(description="Script for training and testing a model")
@@ -167,15 +167,20 @@ def perform_inference(model,  test_dataloader_markers_to_comps,test_dataloader_c
             total_test_loss += loss1.item()
             generated_ids1 = model.generate(input_ids=input_ids1, attention_mask=attention_mask1, max_length=max_seq_length)
             predicted_output1 = tokenizer.batch_decode(generated_ids1, skip_special_tokens=True)
+            #
+            # print(tokenizer.batch_decode(input_ids1, skip_special_tokens=True))
+            # print(predicted_output1)
+            #
             pred_relations = [decode_anl_rel(pred) for pred in predicted_output1]
             # pred_relations = [result[1] for result in post_processed_outputs1]
-            
             decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
+            decoded_labels1 = tokenizer.batch_decode(labels1, skip_special_tokens=True)
+            
             true_components = [decode_anl(label) for label in decoded_labels]
-            true_relations = [decode_anl_rel(label) for label in decoded_labels]
+            true_relations = [decode_anl_rel(label) for label in decoded_labels1]
   
             evaluator.add_batch(true_components, true_relations, pred_components, pred_relations)
-       
+            
         results = evaluator.evaluate()
         
         if checkpoint_path:
@@ -221,7 +226,7 @@ def main():
             val_dataloader_markers_to_comps = DataLoader(val_dataset_marker_comp, batch_size=batch_size_inference, shuffle=False)
             val_dataloader_comps_to_relations = DataLoader(val_dataset_comp_rel, batch_size=batch_size_inference, shuffle=False)
 
-            # model = PeftModel.from_pretrained(base_model, model_name_or_path)
+            model = PeftModel.from_pretrained(base_model, model_name_or_path)
 
             
           
@@ -249,6 +254,16 @@ def main():
             train_dataloader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
             val_dataloader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False)
 
+            
+            # for i in range(0,40):
+            #     print("********")
+            #     print(train_input_sentences[i])
+            #     print(train_target_sentences[i])
+            #     print("********\n")
+                
+                
+                
+                
             optimizer = optim.AdamW(model.parameters(), lr=learning_rate)
 
             # Create a linear learning rate scheduler

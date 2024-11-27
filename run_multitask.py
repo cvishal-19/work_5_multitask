@@ -226,7 +226,7 @@ def main():
             val_dataloader_markers_to_comps = DataLoader(val_dataset_marker_comp, batch_size=batch_size_inference, shuffle=False)
             val_dataloader_comps_to_relations = DataLoader(val_dataset_comp_rel, batch_size=batch_size_inference, shuffle=False)
 
-            model = PeftModel.from_pretrained(base_model, model_name_or_path)
+            # model = PeftModel.from_pretrained(base_model, model_name_or_path)
 
             
           
